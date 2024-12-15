@@ -1,0 +1,2 @@
+D:\repos\JD.RCL\obj\Debug\net9.0\staticwebassets.build.json
+D:\repos\JD.RCL\obj\Debug\net9.0\staticwebassets.build.json

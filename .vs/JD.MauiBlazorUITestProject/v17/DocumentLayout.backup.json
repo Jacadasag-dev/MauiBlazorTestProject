@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\JD.MauiBlazorUITestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AE2A0B-5F48-44E8-8171-DB4224763709}|JD.MauiBlazorUITestProject.csproj|d:\\repos\\jd.mauiblazoruitestproject\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6AE2A0B-5F48-44E8-8171-DB4224763709}|JD.MauiBlazorUITestProject.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2082B5-64A6-4BCA-9CFC-28194DFDC3FE}|..\\JD.RCL\\JD.RCL.csproj|d:\\repos\\jd.rcl\\components\\jdtablecolumn.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2082B5-64A6-4BCA-9CFC-28194DFDC3FE}|..\\JD.RCL\\JD.RCL.csproj|d:\\repos\\jd.rcl\\wwwroot\\scripts\\iprs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2082B5-64A6-4BCA-9CFC-28194DFDC3FE}|..\\JD.RCL\\JD.RCL.csproj|d:\\repos\\jd.rcl\\components\\jdexpandmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2082B5-64A6-4BCA-9CFC-28194DFDC3FE}|..\\JD.RCL\\JD.RCL.csproj|d:\\repos\\jd.rcl\\components\\jdtablecolumn.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2082B5-64A6-4BCA-9CFC-28194DFDC3FE}|..\\JD.RCL\\JD.RCL.csproj|d:\\repos\\jd.rcl\\components\\jdexpandmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2082B5-64A6-4BCA-9CFC-28194DFDC3FE}|..\\JD.RCL\\JD.RCL.csproj|d:\\repos\\jd.rcl\\components\\jdexpandmenu.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1847,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "iprs.js",
+              "DocumentMoniker": "D:\\repos\\JD.RCL\\wwwroot\\scripts\\iprs.js",
+              "RelativeDocumentMoniker": "..\\JD.RCL\\wwwroot\\scripts\\iprs.js",
+              "ToolTip": "D:\\repos\\JD.RCL\\wwwroot\\scripts\\iprs.js",
+              "RelativeToolTip": "..\\JD.RCL\\wwwroot\\scripts\\iprs.js",
+              "ViewState": "AgIAACsBAAAAAAAAAAAgwDcBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-15T20:27:58.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JDExpandMenu.razor.cs",
+              "DocumentMoniker": "D:\\repos\\JD.RCL\\Components\\JDExpandMenu.razor.cs",
+              "RelativeDocumentMoniker": "..\\JD.RCL\\Components\\JDExpandMenu.razor.cs",
+              "ToolTip": "D:\\repos\\JD.RCL\\Components\\JDExpandMenu.razor.cs",
+              "RelativeToolTip": "..\\JD.RCL\\Components\\JDExpandMenu.razor.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA8wDQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:39:47.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JDExpandMenu.razor",
+              "DocumentMoniker": "D:\\repos\\JD.RCL\\Components\\JDExpandMenu.razor",
+              "RelativeDocumentMoniker": "..\\JD.RCL\\Components\\JDExpandMenu.razor",
+              "ToolTip": "D:\\repos\\JD.RCL\\Components\\JDExpandMenu.razor",
+              "RelativeToolTip": "..\\JD.RCL\\Components\\JDExpandMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T18:39:08.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JDTableColumn.razor",
+              "DocumentMoniker": "D:\\repos\\JD.RCL\\Components\\JDTableColumn.razor",
+              "RelativeDocumentMoniker": "..\\JD.RCL\\Components\\JDTableColumn.razor",
+              "ToolTip": "D:\\repos\\JD.RCL\\Components\\JDTableColumn.razor",
+              "RelativeToolTip": "..\\JD.RCL\\Components\\JDTableColumn.razor",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T18:37:44.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\repos\\JD.MauiBlazorUITestProject\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\repos\\JD.MauiBlazorUITestProject\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T18:35:01.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1792,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JDExpandMenu.razor.css",
+              "DocumentMoniker": "D:\\repos\\JD.RCL\\Components\\JDExpandMenu.razor.css",
+              "RelativeDocumentMoniker": "..\\JD.RCL\\Components\\JDExpandMenu.razor.css",
+              "ToolTip": "D:\\repos\\JD.RCL\\Components\\JDExpandMenu.razor.css",
+              "RelativeToolTip": "..\\JD.RCL\\Components\\JDExpandMenu.razor.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-15T18:42:22.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JDTableColumn.razor.css",
+              "DocumentMoniker": "D:\\repos\\JD.RCL\\Components\\JDTableColumn.razor.css",
+              "RelativeDocumentMoniker": "..\\JD.RCL\\Components\\JDTableColumn.razor.css",
+              "ToolTip": "D:\\repos\\JD.RCL\\Components\\JDTableColumn.razor.css",
+              "RelativeToolTip": "..\\JD.RCL\\Components\\JDTableColumn.razor.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-15T18:38:00.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

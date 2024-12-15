@@ -1,0 +1,1507 @@
+/* _content/JD.RCL/Components/JDButton.razor.rz.scp.css */
+@keyframes growAndShrink-b-5j9m0qu8sv {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(.97); /* Adjust the scale value as needed */
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.jd-button[b-5j9m0qu8sv] {
+    position: relative;
+    height: 42px;
+    border-radius: 7px; /* Adjust radius as needed */
+    background: #E8E8E8;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+    color: #333; /* This is a dark gray, visible against a light background */
+    text-transform: uppercase; /* Considering your acronyms are in uppercase */
+    letter-spacing: 1px; /* To give a little breathing room for the uppercase letters */
+    padding-left: 12px;
+    padding-right: 12px;
+    border: thin solid #c8c6c6;
+    transition: transform 0.5s ease-in-out; /* Smooth transition */
+    width: fit-content;
+    z-index: 1;
+}
+
+    .jd-button.tiny[b-5j9m0qu8sv] {
+        height: 24px;
+        font-size: 10px;
+        letter-spacing: .5px; /* To give a little breathing room for the uppercase letters */
+        border-radius: 4px; /* Adjust radius as needed */
+        padding-left: 6px;
+        padding-right: 7px;
+    }
+
+    .jd-button.small[b-5j9m0qu8sv] {
+        font-size: 12px;
+        letter-spacing: .1px; /* To give a little breathing room for the uppercase letters */
+        border-radius: 4px; /* Adjust radius as needed */
+        height: 28px;
+    }
+
+    .jd-button.medium[b-5j9m0qu8sv] {
+        height: 42px;
+        font-size: 14px;
+    }
+
+    .jd-button.large[b-5j9m0qu8sv] {
+        height: 62px;
+        font-size: 20px;
+    }
+
+
+    .jd-button:hover[b-5j9m0qu8sv] {
+        background: linear-gradient(90deg, #036E80, #02424D, #036E80); /* Diagonal gradient background for the tabs container */
+        background-size: 200% 100%; /* Required for shimmer effect */
+        color: #FFFFFF; /* This is a dark gray, visible against a light background */
+    }
+
+        .jd-button:hover[b-5j9m0qu8sv]::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: inherit;
+            animation: shimmer-b-5j9m0qu8sv 10s infinite linear; /* Always apply shimmer animation */
+            z-index: -1;
+            border-radius: 7px; /* Adjust radius as needed */
+        }
+
+
+    .jd-button.selected[b-5j9m0qu8sv] {
+        animation: growAndShrink-b-5j9m0qu8sv 0.5s ease-in-out;
+    }
+
+@keyframes shimmer-b-5j9m0qu8sv {
+    100% {
+        background-position: -200% 0;
+    }
+
+    0% {
+        background-position: 200% 0;
+    }
+}
+/* _content/JD.RCL/Components/JDCheckbox.razor.rz.scp.css */
+.jd-checkbox-container[b-7tq0gb7no9] {
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    white-space: nowrap; /* Prevent wrapping */
+    user-select: none; /* Prevent text selection */
+}
+
+.jd-checkbox-label-container[b-7tq0gb7no9] {
+    margin: 4px 5px 0px 0px;
+    display: inline-block;
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+    color: #333; /* This is a dark gray, visible against a light background */
+    text-transform: uppercase; /* Considering your acronyms are in uppercase */
+    font-weight: bold; /* Makes the text bold */
+    letter-spacing: .1px;
+}
+
+.jd-checkbox[b-7tq0gb7no9] {
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    cursor: pointer;
+}
+
+    .jd-checkbox input[type="checkbox"][b-7tq0gb7no9] {
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+
+    .jd-checkbox .checkmark[b-7tq0gb7no9] {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: #ccc;
+        border-radius: 4px;
+        transition: all 0.3s;
+    }
+
+    .jd-checkbox:hover .checkmark[b-7tq0gb7no9] {
+        background-color: #b3b3b3;
+    }
+
+    .jd-checkbox input[type="checkbox"]:checked ~ .checkmark[b-7tq0gb7no9] {
+        background-color: #036E80;
+    }
+
+    .jd-checkbox .checkmark[b-7tq0gb7no9]:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+
+    .jd-checkbox input[type="checkbox"]:checked ~ .checkmark[b-7tq0gb7no9]:after {
+        display: block;
+    }
+
+    .jd-checkbox .checkmark[b-7tq0gb7no9]:after {
+        left: 7px;
+        top: 3px;
+        width: 6px;
+        height: 12px;
+        border: solid white;
+        border-width: 0 3px 3px 0;
+        transform: rotate(45deg);
+    }
+/* _content/JD.RCL/Components/JDDropdown.razor.rz.scp.css */
+
+.jd-dropdown-container[b-rlsvfwue40] {
+    display: flex;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.jd-dropdown[b-rlsvfwue40] {
+    position: relative;
+    height: 35px;
+    width: var(--dropdown-width);
+    background: #E8E8E8;
+    cursor: default;
+    padding: 0;
+    border-radius: 7px; /* Adjust radius as needed */
+    overflow: hidden; /* Hide content during transition */
+    text-align: start;
+    user-select: none; /* Prevents text from being highlighted */
+    border: thin solid #c8c6c6;
+    z-index: 5;
+    transition: width 0.3s ease; /* Smooth transition for width */
+    flex: 0 0 auto; /* Prevents shrinking and growing */
+    transition: 0.3s ease;
+}
+
+    .jd-dropdown.small[b-rlsvfwue40] {
+        height: 28px;
+        margin: 3px 0px 0px 0px;
+        border-radius: 4px; /* Adjust radius as needed */
+    }
+
+.jd-dropdown-content[b-rlsvfwue40] {
+    opacity: 0;
+    transition: opacity 0.2s linear, width 0.3s ease;
+    position: absolute;
+    top: 34px;
+    width: var(--dropdown-width);
+    height: calc(var(--max-height, 230px) - 35px);
+    background-color: #FFFF;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.jd-dropdown.small .jd-dropdown-content[b-rlsvfwue40] {
+    top: 30px;
+    height: calc(var(--max-height, 230px) - 28px);
+}
+
+.jd-dropdown:hover[b-rlsvfwue40] {
+    background: linear-gradient(90deg, #036E80, #02424D, #036E80); /* Diagonal gradient background for the tabs container */
+    background-size: 200% 100%; /* Required for shimmer effect */
+}
+
+    .jd-dropdown:hover[b-rlsvfwue40]::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: inherit;
+        animation: shimmer-b-rlsvfwue40 10s infinite linear; /* Always apply shimmer animation */
+        z-index: -1;
+    }
+
+.jd-dropdown.expanded[b-rlsvfwue40] {
+    height: var(--max-height, 230px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+@keyframes shimmer-b-rlsvfwue40 {
+    0% {
+        background-position: 200% 0;
+    }
+
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+.jd-dropdown-selectiontext[b-rlsvfwue40] {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    display: inline-block;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+    color: #333; /* This is a dark gray, visible against a light background */
+    text-transform: uppercase; /* Considering your acronyms are in uppercase */
+    letter-spacing: .1px;
+    pointer-events: none; /* Prevents the text from being selected */
+}
+
+.jd-dropdown.small .jd-dropdown-selectiontext[b-rlsvfwue40] {
+    top: 5px;
+    left: 10px;
+    font-size: 12px;
+}
+
+.jd-dropdown-label-container[b-rlsvfwue40] {
+    position: relative;
+    height: 35px;
+    width: auto; /* Allow width to adjust based on content */
+    cursor: default;
+    padding: 0;
+    margin: 0;
+    border-top-left-radius: 7px; /* Adjust radius as needed */
+    border-bottom-left-radius: 7px; /* Adjust radius as needed */
+    overflow: hidden; /* Hide content during transition */
+    text-align: start;
+    user-select: none; /* Prevents text from being highlighted */
+    border: thin solid #c8c6c6;
+    border-right: none;
+    background: linear-gradient(to bottom, #d5d5d5, #E8E8E8); /* Gradient background */
+    display: inline-block; /* Ensures the element can shrink */
+    z-index: 1;
+    white-space: nowrap;
+}
+
+.jd-dropdown-label[b-rlsvfwue40] {
+    padding-right: 8px;
+    margin: 8px 3px 0px 4px;
+    display: inline-block;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+    color: #333; /* This is a dark gray, visible against a light background */
+    text-transform: uppercase; /* Considering your acronyms are in uppercase */
+    font-weight: bold; /* Makes the text bold */
+}
+
+.jd-dropdown-arrow[b-rlsvfwue40] {
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #333; /* This is a dark gray, visible against a light background */
+    transform: rotate(0deg);
+    transition: transform 0.4s ease-in-out; /* Increased duration and added easing */
+    pointer-events: none; /* Prevents the text from being selected */
+}
+
+.jd-dropdown.small .jd-dropdown-arrow[b-rlsvfwue40] {
+    top: 12px;
+}
+
+.jd-dropdown:hover .jd-dropdown-arrow[b-rlsvfwue40] {
+    border-top: 5px solid #FFFFFF; /* White color */
+}
+
+.jd-dropdown:hover .jd-dropdown-selectiontext[b-rlsvfwue40] {
+    color: #FFFFFF; /* White color */
+}
+
+.jd-dropdown.expanded .jd-dropdown-arrow[b-rlsvfwue40] {
+    transform: rotate(180deg);
+}
+
+.jd-dropdown.expanded .jd-dropdown-content[b-rlsvfwue40] {
+    opacity: 1;
+}
+
+ul.item-list[b-rlsvfwue40] {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+    ul.item-list li[b-rlsvfwue40] {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        border-bottom: 1px solid #ddd;
+        font-size: 12px;
+        font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+        color: #333; /* This is a dark gray, visible against a light background */
+        text-transform: uppercase; /* Considering your acronyms are in uppercase */
+        letter-spacing: 1px; /* To give a little breathing room for the uppercase letters */
+    }
+
+.jd-dropdown.small ul.item-list li[b-rlsvfwue40] {
+    font-size: 11px;
+}
+
+ul.item-list li:hover[b-rlsvfwue40] {
+    background-color: #f5f5f5;
+    cursor: pointer;
+}
+
+@keyframes fadeRed-b-rlsvfwue40 {
+    96% {
+        opacity: 0;
+    }
+
+    97% {
+        opacity: .5;
+    }
+
+    98% {
+        opacity: .2;
+    }
+
+    99% {
+        opacity: .5;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.fade-red[b-rlsvfwue40]::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: red;
+    opacity: 0;
+    z-index: 1;
+    animation: fadeRed-b-rlsvfwue40 10s infinite;
+}
+
+.fade-red[b-rlsvfwue40] {
+    position: relative;
+    z-index: 0;
+}
+/* _content/JD.RCL/Components/JDExpandMenu.razor.rz.scp.css */
+.jd-expandmenu-container[b-lsj4mf6lmb] {
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    user-select: none;
+    height: 20px;
+    width: 20px;
+}
+
+    .jd-expandmenu-container.expanded[b-lsj4mf6lmb] {
+        height: fit-content;
+        width: fit-content;
+        z-index: 50;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .jd-expandmenu-container.expanded .jd-expandmenu-symbol-container[b-lsj4mf6lmb] {
+        display: none;
+    }
+
+.gg-browse[b-lsj4mf6lmb] {
+    display: block;
+    position: relative;
+    transform: scale(var(--ggs, 1));
+    box-sizing: border-box;
+    width: 16px;
+    height: 22px;
+    border: 2px solid;
+    border-radius: 3px;
+    background: linear-gradient(to left, currentcolor 10px, transparent 0) no-repeat center 2px/8px 2px, linear-gradient(to left, currentcolor 10px, transparent 0) no-repeat center 6px/8px 2px;
+    color: #FFFFFF; /* Set the color to #FFFFFF */
+}
+
+    .gg-browse[b-lsj4mf6lmb]::after,
+    .gg-browse[b-lsj4mf6lmb]::before {
+        content: "";
+        display: block;
+        box-sizing: border-box;
+        position: absolute;
+        border-radius: 22px;
+    }
+
+    .gg-browse[b-lsj4mf6lmb]::before {
+        width: 6px;
+        height: 6px;
+        border: 2px solid;
+        left: 3px;
+        top: 9px;
+    }
+
+    .gg-browse[b-lsj4mf6lmb]::after {
+        width: 2px;
+        height: 4px;
+        background: currentColor;
+        bottom: 1px;
+        right: 2px;
+        transform: rotate(-45deg);
+    }
+
+
+
+.jd-expandmenu-content-container[b-lsj4mf6lmb] {
+    background-color: #fff;
+    border-top: 1px solid #ccc;
+    overflow: hidden;
+    flex-direction: column;
+    gap: 6px;
+    padding: 0; /* Start with no padding for a hidden effect */
+    opacity: 0;
+    cursor: default;
+    width: inherit;
+    height: inherit;
+    pointer-events: none;
+}
+
+.jd-expandmenu-container.expanded .jd-expandmenu-content-container[b-lsj4mf6lmb] {
+    padding: 10px 10px 10px 10px; /* Add padding when expanded */
+    opacity: 1;
+    pointer-events: all;
+}
+/* _content/JD.RCL/Components/JDInput.razor.rz.scp.css */
+.jd-input[b-a3j06nf34y] {
+    width: 326px;
+    border-radius: 7px; /* Adjust radius as needed */
+    border: thin solid #c8c6c6;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+    color: #333; /* This is a dark gray, visible against a light background */
+    letter-spacing: 1px; /* To give a little breathing room for the uppercase letters */
+    outline: none; /* Remove default outline */
+    padding-left: 10px;
+    margin: 0px 0px 0px 0px;
+    height: 42px;
+    min-height: 42px; /* Prevent shrinking below 42px */
+}
+
+    .jd-input:focus[b-a3j06nf34y] {
+        outline: 2px solid #036D80; /* Added outline with the desired color on focus */
+        border: none;
+    }
+
+.jd-textarea[b-a3j06nf34y] {
+    border: thin solid #c8c6c6;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+    color: #333; /* This is a dark gray, visible against a light background */
+    letter-spacing: 1px; /* To give a little breathing room for the uppercase letters */
+    outline: none; /* Remove default outline */
+    height: 100%;
+    width: 100%;
+}
+
+.jd-textarea-linenumbers-container[b-a3j06nf34y] {
+    color: #333; /* This is a dark gray, visible against a light background */
+    width: 20px;
+    text-align: center;
+    background: #9bb1c2;
+}
+
+.jd-textarea-linenumbers[b-a3j06nf34y] {
+    padding-top: 3px;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+    color: #333; /* This is a dark gray, visible against a light background */
+}
+/* _content/JD.RCL/Components/JDLoading.razor.rz.scp.css */
+/* Container styles */
+.container[b-hehfgvam9r] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex-direction: column;
+    text-align: center;
+    animation: fadeIn-b-hehfgvam9r .3s forwards;
+}
+
+    .container.full[b-hehfgvam9r] {
+        height: 90vh;
+        width: 100vw;
+    }
+
+@keyframes fadeIn-b-hehfgvam9r {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+/* Spinner container */
+.spinner[b-hehfgvam9r] {
+    position: relative;
+    width: 50px;
+    height: 50px;
+}
+
+.container.fadeout .spinner[b-hehfgvam9r] {
+    animation: fadeOut .3s forwards
+}
+/* Brush styles */
+.brush[b-hehfgvam9r] {
+    position: absolute;
+    left: -3px;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    transform-origin: center;
+}
+
+.brush1[b-hehfgvam9r] {
+    animation: spin-pulse-b-hehfgvam9r 2s infinite linear;
+}
+
+.brush2[b-hehfgvam9r] {
+    animation: spin-pulse-reverse-b-hehfgvam9r 2s infinite linear;
+}
+
+/* Keyframes for spinner rotation, pulsing, and color swapping */
+@keyframes spin-pulse-b-hehfgvam9r {
+    0%, 100% {
+        transform: rotate(0deg) scale(1);
+        background-color: #10707f;
+    }
+
+    50% {
+        transform: rotate(260deg) scale(1.1);
+        background-color: #26A98F;
+    }
+}
+
+@keyframes spin-pulse-reverse-b-hehfgvam9r {
+    0%, 100% {
+        transform: rotate(0deg) scale(1.1);
+        background-color: #26A98F;
+    }
+
+    50% {
+        transform: rotate(-260deg) scale(1);
+        background-color: #10707f;
+    }
+}
+
+/* Message styles */
+.message[b-hehfgvam9r] {
+    margin-top: 20px;
+    font-size: 1.25rem;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+}
+/* _content/JD.RCL/Components/JDPage.razor.rz.scp.css */
+.jd-page[b-jpquu1lj96] {
+    position: fixed;
+    height: calc(100% - var(--top-offset));
+    width: calc(100% - var(--left-offset));
+    padding: 0px;
+    margin: 0px;
+    top: var(--top-offset);
+    left: var(--left-offset);
+    opacity: 0; /* Start with opacity 0 */
+    animation: fadeIn-b-jpquu1lj96 1s forwards; /* Apply the fadeIn animation */
+    animation-delay: 0.3s; /* Delay the animation start by 0.5 seconds */
+}
+
+@keyframes fadeIn-b-jpquu1lj96 {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.jd-page-header-container[b-jpquu1lj96] {
+    position: absolute;
+    background-color: white;
+    height: 56px;
+    width: 100%;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    z-index: 26;
+}
+
+.jd-page-header[b-jpquu1lj96] {
+    padding: 10px;
+    width: 100%;
+    position: absolute;
+    background-color: transparent;
+    display: flex;
+    gap: 7px;
+    white-space: nowrap; /* Prevent text wrapping */
+    overflow: hidden; /* Hide overflow if text exceeds container width */
+    text-overflow: ellipsis; /* Add ellipsis (...) if text is cut off */
+}
+
+.jd-page-panels-container[b-jpquu1lj96] {
+    position: absolute;
+    top: 56px;
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background-color: transparent;
+    z-index: 2;
+    pointer-events: none; /* Allow interaction with elements behind this one */
+}
+
+.jd-page-body-container[b-jpquu1lj96] {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background-color: #f7f7f7;
+    z-index: 1;
+    transition: 0.3s ease, height 0.3s ease;
+}
+
+
+.jd-page-body[b-jpquu1lj96] {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.jd-page-footer-container[b-jpquu1lj96] {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 62px;
+    width: 100%;
+    background-color: white;
+    z-index: 2;
+    box-shadow: 0 -4px 6px -1px rgba(0, 0, 0, 0.1), 0 -2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+
+.jd-page-footer[b-jpquu1lj96] {
+    padding: 10px;
+    position: absolute;
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    gap: 7px;
+    white-space: nowrap; /* Prevent text wrapping */
+    overflow: hidden; /* Hide overflow if text exceeds container width */
+    text-overflow: ellipsis; /* Add ellipsis (...) if text is cut off */
+}
+/* _content/JD.RCL/Components/JDPanel.razor.rz.scp.css */
+
+/* Add this class to the interactive elements within the panels container */
+.jd-page-panels-container .interactive[b-8nmk4hrokj] {
+    pointer-events: auto; /* Re-enable interaction for specific elements */
+}
+
+.jd-panel-container[b-8nmk4hrokj] {
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    transition: 0.3s ease, height 0.3s ease;
+    opacity: 1; /* Default fully visible */
+}
+
+.jd-panel[b-8nmk4hrokj] {
+    position: absolute;
+    background: white;
+    overflow: hidden;
+    transition: 0.3s ease, height 0.3s ease;
+}
+
+    .jd-panel.left[b-8nmk4hrokj] {
+        box-shadow: 4px 0 6px -1px rgba(0, 0, 0, 0.1), 2px 0 4px -1px rgba(0, 0, 0, 0.06);
+    }
+
+    .jd-panel.right[b-8nmk4hrokj] {
+        box-shadow: -4px 0 6px -1px rgba(0, 0, 0, 0.1), -2px 0 4px -1px rgba(0, 0, 0, 0.06);
+    }
+
+    .jd-panel.top[b-8nmk4hrokj] {
+        box-shadow: 0 -4px 6px -1px rgba(0, 0, 0, 0.1), 0 -2px 4px -1px rgba(0, 0, 0, 0.06);
+    }
+
+    .jd-panel.bottom[b-8nmk4hrokj] {
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    }
+
+.jd-panel-header[b-8nmk4hrokj] {
+    position: relative;
+    height: 35px;
+    align-content: center;
+    background: #E8E8E8;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1); /* Adjust thickness and color as needed */
+    opacity: 1;
+    transition: opacity 0.5s linear;
+    white-space: nowrap; /* Prevent text wrapping */
+    overflow: hidden; /* Hide overflow if text exceeds container width */
+    text-overflow: ellipsis; /* Add ellipsis (...) if text is cut off */
+}
+
+.jd-panel-header-styling[b-8nmk4hrokj] {
+    padding: 5px 0px 0px 20px;
+    cursor: default;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+    color: #333; /* This is a dark gray, visible against a light background */
+    text-transform: uppercase; /* Considering your acronyms are in uppercase */
+    letter-spacing: 1px; /* To give a little breathing room for the uppercase letters */
+}
+
+.jd-panel-body[b-8nmk4hrokj] {
+    position: relative;
+    background-color: inherit;
+    opacity: 1;
+    transition: opacity 0.5s linear;
+}
+
+.jd-panel-footer[b-8nmk4hrokj] {
+    position: absolute;
+    width: 100%;
+    height: 35px;
+    align-content: center;
+    bottom: 0px;
+    background: #E8E8E8;
+    border-top: 2px solid rgba(0, 0, 0, 0.1); /* Adjust thickness and color as needed */
+    opacity: 1;
+    transition: opacity 0.5s linear;
+    white-space: nowrap; /* Prevent text wrapping */
+    overflow: hidden; /* Hide overflow if text exceeds container width */
+    text-overflow: ellipsis; /* Add ellipsis (...) if text is cut off */
+}
+
+.jd-panel-statechanger[b-8nmk4hrokj] {
+    position: absolute;
+    align-content: center;
+    cursor: pointer;
+    user-select: none; /* Prevent text selection */
+}
+    .jd-panel-statechanger.top[b-8nmk4hrokj] {
+        border-top: thin solid #c8c6c6;
+        border-bottom: thin solid #c8c6c6;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        transition: top 0.3s ease, bottom 0.3s ease, height 0.3s ease;
+        display: flex;
+        justify-content: center;
+        background: linear-gradient(90deg, #E8E8E8, #d0d0d0, #E8E8E8);
+    }
+
+    .jd-panel-statechanger.bottom[b-8nmk4hrokj] {
+        border-top: thin solid #c8c6c6;
+        border-bottom: thin solid #c8c6c6;
+        box-shadow: 0 -4px 6px -1px rgba(0, 0, 0, 0.1), 0 -2px 4px -1px rgba(0, 0, 0, 0.06);
+        transition: top 0.3s ease, bottom 0.3s ease, height 0.3s ease;
+        display: flex;
+        justify-content: center;
+        background: linear-gradient(90deg, #E8E8E8, #d0d0d0, #E8E8E8);
+    }
+    .jd-panel-statechanger.left[b-8nmk4hrokj] {
+        border-right: thin solid #c8c6c6;
+        border-left: thin solid #c8c6c6;
+        box-shadow: 4px 0 6px -1px rgba(0, 0, 0, 0.1), 2px 0 4px -1px rgba(0, 0, 0, 0.06);
+        transition: left 0.3s ease, right 0.3s ease, height 0.3s ease;
+        background: linear-gradient(#E8E8E8, #d0d0d0, #E8E8E8);
+    }
+    .jd-panel-statechanger.right[b-8nmk4hrokj] {
+        border-right: thin solid #c8c6c6;
+        border-left: thin solid #c8c6c6;
+        box-shadow: -4px 0 6px -1px rgba(0, 0, 0, 0.1), -2px 0 4px -1px rgba(0, 0, 0, 0.06);
+        transition: left 0.3s ease, right 0.3s ease, height 0.3s ease;
+        background: linear-gradient(#E8E8E8, #d0d0d0, #E8E8E8);
+    }
+
+    .jd-panel-statechanger.left.latching[b-8nmk4hrokj] {
+        border-right: none;
+        border-left: thin solid #c8c6c6;
+        box-shadow: none;
+        background: linear-gradient(#E8E8E8, #d0d0d0, #E8E8E8);
+        cursor: ew-resize;
+    }
+
+    .jd-panel-statechanger.right.latching[b-8nmk4hrokj] {
+        border-right: thin solid #c8c6c6;
+        border-left: none;
+        box-shadow: none;
+        background: linear-gradient(#E8E8E8, #d0d0d0, #E8E8E8);
+        cursor: ew-resize;
+    }
+
+.jd-panel-container.minimized .jd-panel-statechanger.left[b-8nmk4hrokj] {
+    border-left: none;
+}
+
+.jd-panel-container.minimized .jd-panel-statechanger.right[b-8nmk4hrokj] {
+    border-right: none;
+}
+
+.jd-panel-container.minimized .jd-panel-statechanger.top[b-8nmk4hrokj] {
+    border-top: none;
+}
+
+.jd-panel-container.minimized .jd-panel-statechanger.bottom[b-8nmk4hrokj] {
+    border-bottom: none;
+}
+
+.jd-panel.minimized .jd-panel-body[b-8nmk4hrokj] {
+    opacity: 0;
+}
+
+.jd-panel.minimized .jd-panel-header[b-8nmk4hrokj] {
+    opacity: 0;
+}
+
+.jd-panel.minimized .jd-panel-footer[b-8nmk4hrokj] {
+    opacity: 0;
+}
+
+.jd-panel-statechanger-center-container.arrow[b-8nmk4hrokj] {
+    position: absolute;
+}
+
+.jd-panel-statechanger-center-container.dots[b-8nmk4hrokj] {
+    position: absolute;
+    height: 30px;
+}
+
+.jd-panel-statechanger-center-container.top.arrow[b-8nmk4hrokj],
+.jd-panel-statechanger-center-container.bottom.arrow[b-8nmk4hrokj] {
+    width: calc(100% - 104px);
+    height: 11px;
+    bottom: -1px;
+    text-align: center;
+}
+.jd-panel-statechanger-center-container.left.arrow[b-8nmk4hrokj],
+.jd-panel-statechanger-center-container.right.arrow[b-8nmk4hrokj] {
+    right: -1px;
+    width: 11px;
+    height: calc(100% - 70px);
+    align-content: center;
+    top: 34px;
+}
+
+
+.jd-panel-statechanger-center-container.left.dots[b-8nmk4hrokj],
+.jd-panel-statechanger-center-container.right.dots[b-8nmk4hrokj] {
+    right: -1px;
+    width: 11px;
+    height: calc(100% - 70px);
+    align-content: center;
+    top: 34px;
+}
+
+.jd-panel-statechanger-center-container.left.dots[b-8nmk4hrokj] {
+    left: 7px;
+    z-index: 1;
+}
+
+.jd-panel-statechanger-center-container.right.dots[b-8nmk4hrokj] {
+    display: none;
+}
+
+.jd-panel-statechanger-center.arrow[b-8nmk4hrokj] {
+    position: absolute;
+}
+
+.jd-panel-statechanger-center.dots[b-8nmk4hrokj] {
+    display: inline-block;
+    position: relative;
+    width: 4px; /* Width of the dots */
+    height: 4px; /* Height of the dots */
+    background-color: #333; /* Color of the dots */
+    border-radius: 50%; /* Make the dots round */
+}
+
+.jd-panel-statechanger-center.top.arrow[b-8nmk4hrokj] {
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #333;
+    top: 3px;
+}
+
+.jd-panel-statechanger-center.bottom.arrow[b-8nmk4hrokj] {
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #333;
+    top: 3px;
+}
+
+.jd-panel-statechanger-center.left.arrow[b-8nmk4hrokj] {
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid #333;
+    left: 3px;
+}
+
+.jd-panel-statechanger-center.right.arrow[b-8nmk4hrokj] {
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-right: 5px solid #333;
+    left: 3px;
+}
+
+.jd-panel-statechanger-center.dots[b-8nmk4hrokj]::before,
+.jd-panel-statechanger-center.dots[b-8nmk4hrokj]::after {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    width: 4px; /* Width of the dots */
+    height: 4px; /* Height of the dots */
+    background-color: #333; /* Color of the dots */
+    border-radius: 50%; /* Make the dots round */
+}
+
+.jd-panel-statechanger-center.left.dots[b-8nmk4hrokj]::before,
+.jd-panel-statechanger-center.right.dots[b-8nmk4hrokj]::before {
+    top: -8px; /* Adjust the spacing between the dots */
+}
+
+.jd-panel-statechanger-center.left.dots[b-8nmk4hrokj]::after,
+.jd-panel-statechanger-center.right.dots[b-8nmk4hrokj]::after {
+    top: 8px; /* Adjust the spacing between the dots */
+}
+
+.jd-panel-statechanger.expanded .jd-panel-statechanger-center.bottom.arrow[b-8nmk4hrokj] {
+    top: 4px;
+}
+
+.jd-panel-statechanger.expanded .jd-panel-statechanger-center.right.arrow[b-8nmk4hrokj] {
+    left: 4px;
+}
+
+.jd-panel-statechanger-Selement-container[b-8nmk4hrokj] {
+    position: absolute;
+}
+
+    .jd-panel-statechanger-Selement-container.one.top[b-8nmk4hrokj],
+    .jd-panel-statechanger-Selement-container.one.bottom[b-8nmk4hrokj] {
+        left: 22px;
+        bottom: -1px;
+        height: 10px;
+        width: 30px;
+        cursor: ns-resize;
+    }
+    .jd-panel-statechanger-Selement-container.two.bottom[b-8nmk4hrokj],
+    .jd-panel-statechanger-Selement-container.two.top[b-8nmk4hrokj] {
+        right: 22px;
+        bottom: -1px;
+        height: 10px;
+        width: 30px;
+        cursor: ns-resize;
+    }
+    .jd-panel-statechanger-Selement-container.one.left[b-8nmk4hrokj],
+    .jd-panel-statechanger-Selement-container.one.right[b-8nmk4hrokj] {
+        top: 3px;
+        right: 0px;
+        width: 9px;
+        height: 29px;
+        cursor: ew-resize;
+    }
+    .jd-panel-statechanger-Selement-container.two.right[b-8nmk4hrokj],
+    .jd-panel-statechanger-Selement-container.two.left[b-8nmk4hrokj] {
+        bottom: 3px;
+        right: 0px;
+        width: 9px;
+        height: 29px;
+        cursor: ew-resize;
+    }
+
+.jd-panel-statechanger.latching.vertical .jd-panel-statechanger-Selement-container.one.left[b-8nmk4hrokj],
+.jd-panel-statechanger.latching.vertical .jd-panel-statechanger-Selement-container.two.left[b-8nmk4hrokj],
+.jd-panel-statechanger.latching.vertical .jd-panel-statechanger-Selement-container.one.right[b-8nmk4hrokj],
+.jd-panel-statechanger.latching.vertical .jd-panel-statechanger-Selement-container.two.right[b-8nmk4hrokj] {
+    cursor: pointer;
+}
+
+.jd-panel-statechanger-Selement.dots[b-8nmk4hrokj] {
+    display: inline-block;
+    position: relative;
+    width: 4px; /* Width of the dots */
+    height: 4px; /* Height of the dots */
+    background-color: #333; /* Color of the dots */
+    border-radius: 50%; /* Make the dots round */
+}
+
+.jd-panel-statechanger-Selement.detacher[b-8nmk4hrokj] {
+    position: absolute;
+    top: 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.jd-panel-statechanger-Selement.one.top.dots[b-8nmk4hrokj],
+.jd-panel-statechanger-Selement.one.bottom.dots[b-8nmk4hrokj],
+.jd-panel-statechanger-Selement.two.top.dots[b-8nmk4hrokj],
+.jd-panel-statechanger-Selement.two.bottom.dots[b-8nmk4hrokj] {
+    left: 5px;
+    bottom: 10px;
+}
+
+.jd-panel-statechanger-Selement.one.left.dots[b-8nmk4hrokj],
+.jd-panel-statechanger-Selement.one.right.dots[b-8nmk4hrokj],
+.jd-panel-statechanger-Selement.two.left.dots[b-8nmk4hrokj],
+.jd-panel-statechanger-Selement.two.right.dots[b-8nmk4hrokj] {
+    right: -3px;
+    top: -1px;
+}
+
+.jd-panel-statechanger-Selement.dots[b-8nmk4hrokj]::before,
+.jd-panel-statechanger-Selement.dots[b-8nmk4hrokj]::after {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    width: 4px; /* Width of the dots */
+    height: 4px; /* Height of the dots */
+    background-color: #333; /* Color of the dots */
+    border-radius: 50%; /* Make the dots round */
+}
+
+.jd-panel-statechanger-Selement.one.top.dots[b-8nmk4hrokj]::before,
+.jd-panel-statechanger-Selement.one.bottom.dots[b-8nmk4hrokj]::before {
+    left: 16px; /* Adjust the spacing between the dots */
+}
+
+.jd-panel-statechanger-Selement.two.top.dots[b-8nmk4hrokj]::before,
+.jd-panel-statechanger-Selement.two.bottom.dots[b-8nmk4hrokj]::before {
+    left: 16px; /* Adjust the spacing between the dots */
+}
+
+.jd-panel-statechanger-Selement.one.top.dots[b-8nmk4hrokj]::after,
+.jd-panel-statechanger-Selement.one.bottom.dots[b-8nmk4hrokj]::after {
+    left: 8px; /* Adjust the spacing between the dots */
+}
+
+.jd-panel-statechanger-Selement.two.top.dots[b-8nmk4hrokj]::after,
+.jd-panel-statechanger-Selement.two.bottom.dots[b-8nmk4hrokj]::after {
+    left: 8px; /* Adjust the spacing between the dots */
+}
+
+.jd-panel-statechanger-Selement.one.left.dots[b-8nmk4hrokj]::before,
+.jd-panel-statechanger-Selement.one.right.dots[b-8nmk4hrokj]::before {
+    top: -8px; /* Adjust the spacing between the dots */
+}
+
+.jd-panel-statechanger-Selement.two.left.dots[b-8nmk4hrokj]::before,
+.jd-panel-statechanger-Selement.two.right.dots[b-8nmk4hrokj]::before {
+    top: -8px; /* Adjust the spacing between the dots */
+}
+
+.jd-panel-statechanger-Selement.one.left.dots[b-8nmk4hrokj]::after,
+.jd-panel-statechanger-Selement.one.right.dots[b-8nmk4hrokj]::after {
+    top: 8px; /* Adjust the spacing between the dots */
+}
+
+.jd-panel-statechanger-Selement.two.left.dots[b-8nmk4hrokj]::after,
+.jd-panel-statechanger-Selement.two.right.dots[b-8nmk4hrokj]::after {
+    top: 8px; /* Adjust the spacing between the dots */
+}
+
+.jd-panel-statechanger-Selement.one.left.detacher[b-8nmk4hrokj] {
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-right: 5px solid #333;
+    left: 3px;
+}
+
+.jd-panel-statechanger-Selement.two.left.detacher[b-8nmk4hrokj] {
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-right: 5px solid #333;
+    left: 3px;
+}
+
+.jd-panel-statechanger-Selement.one.right.detacher[b-8nmk4hrokj] {
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid #333;
+    left: 2px;
+}
+
+.jd-panel-statechanger-Selement.two.right.detacher[b-8nmk4hrokj] {
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid #333;
+    left: 2px;
+}
+
+.jd-panel-statechanger.expanded .jd-panel-statechanger-center.top.arrow[b-8nmk4hrokj],
+.jd-panel-statechanger.expanded .jd-panel-statechanger-center.bottom.arrow[b-8nmk4hrokj],
+.jd-panel-statechanger.expanded .jd-panel-statechanger-center.left.arrow[b-8nmk4hrokj],
+.jd-panel-statechanger.expanded .jd-panel-statechanger-center.right.arrow[b-8nmk4hrokj] {
+    transform: rotate(180deg);
+}
+
+.jd-panel-statechanger.minimized .jd-panel-statechanger-Selement-container.top[b-8nmk4hrokj],
+.jd-panel-statechanger.minimized .jd-panel-statechanger-Selement-container.bottom[b-8nmk4hrokj],
+.jd-panel-statechanger.minimized .jd-panel-statechanger-Selement-container.left[b-8nmk4hrokj],
+.jd-panel-statechanger.minimized .jd-panel-statechanger-Selement-container.right[b-8nmk4hrokj] {
+    display: none;
+}
+
+.jd-panel-statechanger.minimized .jd-panel-statechanger-center-container.top.arrow[b-8nmk4hrokj],
+.jd-panel-statechanger.minimized .jd-panel-statechanger-center-container.bottom.arrow[b-8nmk4hrokj] {
+    width: 100%;
+    left: 0px;
+}
+
+.jd-panel-statechanger.minimized .jd-panel-statechanger-center-container.left.arrow[b-8nmk4hrokj],
+.jd-panel-statechanger.minimized .jd-panel-statechanger-center-container.right.arrow[b-8nmk4hrokj] {
+    height: 100%;
+    top: 0px;
+}
+
+.jd-panel-statechanger:hover .jd-panel-statechanger-center.top.arrow[b-8nmk4hrokj] {
+    border-top: 5px solid #FFFFFF; /* White color on hover */
+}
+.jd-panel-statechanger:hover .jd-panel-statechanger-center.bottom.arrow[b-8nmk4hrokj] {
+    border-bottom: 5px solid #FFFFFF; /* White color on hover */
+}
+.jd-panel-statechanger:hover .jd-panel-statechanger-center.left.arrow[b-8nmk4hrokj] {
+    border-left: 5px solid #FFFFFF; /* White color on hover */
+}
+.jd-panel-statechanger:hover .jd-panel-statechanger-center.right.arrow[b-8nmk4hrokj] {
+    border-right: 5px solid #FFFFFF; /* White color on hover */
+}
+
+.jd-panel-statechanger:hover .jd-panel-statechanger-Selement.dots[b-8nmk4hrokj],
+.jd-panel-statechanger:hover .jd-panel-statechanger-Selement.dots[b-8nmk4hrokj]::after,
+.jd-panel-statechanger:hover .jd-panel-statechanger-Selement.dots[b-8nmk4hrokj]::before {
+    background-color: #FFFFFF; /* Color of the dots */
+}
+
+.jd-panel-statechanger-center.left.dots[b-8nmk4hrokj],
+.jd-panel-statechanger-center.left.dots[b-8nmk4hrokj]::after,
+.jd-panel-statechanger-center.left.dots[b-8nmk4hrokj]::before {
+    background-color: #333; /* Color of the dots */
+}
+
+.jd-panel-statechanger.minimized .jd-panel-statechanger-Selement.dots[b-8nmk4hrokj] {
+    display: none;
+}
+/* _content/JD.RCL/Components/JDSlider.razor.rz.scp.css */
+.rr-slider-container[b-fyz2q5w4of] {
+    display: flex;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+}
+
+.rr-slider[b-fyz2q5w4of] {
+    position: relative;
+    width: 100%;
+    max-width: 40px;
+    height: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    user-select: none;
+}
+
+    .rr-slider.small[b-fyz2q5w4of] {
+        height: 10px;
+    }
+
+    .rr-slider.large[b-fyz2q5w4of] {
+        height: 30px;
+    }
+
+.rr-slider-track[b-fyz2q5w4of] {
+    position: absolute;
+    width: 40px;
+    height: 100%;
+    background-color: #ccc;
+    border-radius: inherit;
+}
+
+.rr-slider:hover .rr-slider-track[b-fyz2q5w4of] {
+    background-color: #b3b3b3;
+}
+
+.rr-slider.activated .rr-slider-track[b-fyz2q5w4of] {
+    background-color: #c1dad4;
+}
+
+.rr-slider-thumb[b-fyz2q5w4of] {
+    position: absolute;
+    top: 50%;
+    width: 20px;
+    height: 20px;
+    background: #808080ff;
+    border-radius: 50%;
+    transform: translateY(-50%);
+    transition: left 0.3s ease, background .7s ease;
+    left: 0%;
+}
+
+.rr-slider.activated .rr-slider-thumb[b-fyz2q5w4of] {
+    background: #036E80;
+}
+
+.rr-slider.activated .rr-slider-thumb[b-fyz2q5w4of] {
+    left: calc(100% - 20px);
+}
+
+.rr-slider.small.activated .rr-slider-thumb[b-fyz2q5w4of] {
+    left: calc(100% - 10px);
+}
+
+.rr-slider.large.activated .rr-slider-thumb[b-fyz2q5w4of] {
+    left: calc(100% - 30px);
+}
+
+.rr-slider.small .rr-slider-thumb[b-fyz2q5w4of] {
+    width: 10px;
+    height: 10px;
+}
+
+.rr-slider.large .rr-slider-thumb[b-fyz2q5w4of] {
+    width: 30px;
+    height: 30px;
+}
+
+.rr-slider-label[b-fyz2q5w4of] {
+    margin: 4px 5px 0px 0px;
+    display: inline-block;
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+    color: #333; /* This is a dark gray, visible against a light background */
+    text-transform: uppercase; /* Considering your acronyms are in uppercase */
+    font-weight: bold; /* Makes the text bold */
+    letter-spacing: .1px;
+}
+/* _content/JD.RCL/Components/JDTable.razor.rz.scp.css */
+/* Container that holds both the row button container and the table */
+.jd-table-container[b-obcuan1dvu] {
+    display: flex;
+    align-items: flex-start; /* Align items at the top */
+    height: 100%;
+}
+
+.topleftfill[b-obcuan1dvu] {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 22px;
+    height: 30px;
+    background: linear-gradient(to bottom,#c5e0da, #b8cec9); /* Gradient background */
+}
+/* Container for row buttons */
+.jd-table-left-side-bar-container[b-obcuan1dvu] {
+    position: relative;
+    width: 22px;
+    display: flex;
+    flex-direction: column; /* Stack the buttons vertically */
+    background: #f5f5f5; /* Gradient background */
+}
+
+.notsticky[b-obcuan1dvu] {
+    position: relative;
+}
+
+.jd-table-row-button[b-obcuan1dvu] {
+    cursor: pointer;
+    height: 17px;
+    width: 100%;
+    border: 1px solid #eee;
+}
+
+.jd-table-left-side-bar-container .nosticky[b-obcuan1dvu] {
+    z-index: 2;
+}
+/* Styling for row button numbers */
+.jd-table-row-button.number[b-obcuan1dvu] {
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+    color: #333; /* This is a dark gray, visible against a light background */
+    text-transform: uppercase; /* Considering your acronyms are in uppercase */
+    letter-spacing: .1px;
+    text-align: right;
+    font-weight: bold;
+    padding-right: 2px;
+}
+
+    /* Styling for row button symbols */
+.jd-table-row-button.symbol[b-obcuan1dvu] {
+    display: block; /* Make symbols block-level elements */
+}
+
+.jd-table-row-button:hover[b-obcuan1dvu] {
+    background-color: #f1f1f1;
+}
+
+.jd-table[b-obcuan1dvu] {
+    left: 22px;
+    position: absolute;
+    display: flex;
+    flex-wrap: nowrap;
+    border: none; /* Keep the original table styling */
+}
+/* _content/JD.RCL/Components/JDTableColumn.razor.rz.scp.css */
+.jd-tcolumn-container[b-uxbyp1yv1a] {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    z-index: var(--positionIndex, 1);
+    flex-shrink: 0; /* Prevent shrinking */
+}
+
+.jd-tcolumn-header[b-uxbyp1yv1a] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to bottom,#c5e0da, #b8cec9); /* Gradient background */
+    white-space: nowrap;
+    user-select: none;
+    position: relative; /* Ensure relative positioning for absolute children */
+    height: 30px;
+    padding: 0px 3px 0px 3px;
+    border-bottom: 1px solid #b8cec9;
+    cursor: pointer;
+    z-index: 100; /* Ensure the sticky header is above other elements */
+    top: 0; /* Adjust this value if you want some offset from the top */
+    position: sticky;
+}
+
+    .jd-tcolumn-header.notsticky[b-uxbyp1yv1a] {
+        position: relative;
+    }
+
+
+
+.jd-tcolumn-header-text-container[b-uxbyp1yv1a] {
+    position: relative;
+    min-width: 16px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.jd-tcolumn-header-text[b-uxbyp1yv1a] {
+    font-weight: bold;
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+    color: #333; /* This is a dark gray, visible against a light background */
+    text-transform: uppercase; /* Considering your acronyms are in uppercase */
+    letter-spacing: .1px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.jd-tcolumn-filtersort-container[b-uxbyp1yv1a] {
+    justify-content: start;
+    min-width: 47px;
+    height: 100%;
+}
+
+    .jd-tcolumn-filtersort-container.activated[b-uxbyp1yv1a] {
+        display: flex;
+    }
+
+    .jd-tcolumn-filtersort-container.deactivated[b-uxbyp1yv1a] {
+    }
+
+    .jd-tcolumn-filtersort-container[b-uxbyp1yv1a]::after {
+        content: ''; /* Make sure to set content to an empty string */
+        position: absolute;
+        top: 0;
+        right: 0px; /* Align to the right side */
+        width: 6px;
+        height: 100%;
+        background: transparent;
+        cursor: ew-resize;
+    }
+
+.jd-tcolumn-header:hover .jd-tcolumn-filtersort-container[b-uxbyp1yv1a] {
+    display: flex;
+}
+
+.jd-tcolumn-header-sortsymbol-container[b-uxbyp1yv1a] {
+    position: relative;
+    min-width: 16px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.jd-tcolumn-header-sortsymbol[b-uxbyp1yv1a] {
+    position: absolute;
+    top: 11px;
+    left: 3px;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #333; /* This is a dark gray, visible against a light background */
+    transform: rotate(0deg);
+    transition: 0.4s ease-in-out; /* Increased duration and added easing */
+}
+
+    .jd-tcolumn-header-sortsymbol.none[b-uxbyp1yv1a] {
+        border-top: 5px solid #fff; /* This is a dark gray, visible against a light background */
+    }
+
+    .jd-tcolumn-header-sortsymbol.ascending[b-uxbyp1yv1a] {
+        border-top: 5px solid #333; /* This is a dark gray, visible against a light background */
+    }
+
+    .jd-tcolumn-header-sortsymbol.descending[b-uxbyp1yv1a] {
+        transform: rotate(180deg);
+    }
+
+.jd-tcolumn-filter-container[b-uxbyp1yv1a] {
+    position: absolute;
+    right: 10px;
+    top: 3px;
+    z-index: 1000;
+}
+
+.jd-tcolumn-content[b-uxbyp1yv1a] {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+.jd-tcolumn-listitem[b-uxbyp1yv1a] {
+    border: 1px solid #eee;
+    height: 17px;
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif; /* Substitute with your chosen font */
+    color: #333; /* This is a dark gray, visible against a light background */
+    text-transform: uppercase; /* Considering your acronyms are in uppercase */
+    letter-spacing: .1px;
+    cursor: default;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+    padding-left: 2px;
+}
+
+    .jd-tcolumn-listitem:last-child[b-uxbyp1yv1a] {
+        border-bottom: none;
+    }
+
+    .jd-tcolumn-listitem:hover[b-uxbyp1yv1a] {
+        background-color: #f1f1f1;
+    }

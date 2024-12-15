@@ -1,0 +1,181 @@
+﻿@page "/"
+
+@if (fullLoading is not null) {
+    <JDLoading
+        FullScreen="true"
+        Loading="fullLoading">
+    </JDLoading>
+}
+@if (fullLoading is null)
+{
+    <JDPage
+        Id="Page"
+        PanelsTag="Panel">
+        <Header>
+            Some page header text...
+        </Header>
+        <Body>
+            <div class="p-1">
+                <JDButton OnClick="handleLoadData">Load Data</JDButton>
+            </div>
+            <JDTable Id="ExampleTable"
+                     TItem="ExampleRecord"
+                     StickyHeader="true">
+            </JDTable>
+        </Body>
+        <Panels>
+            <JDPanel 
+                Id="BottomPanel"
+                Tag="Panel"
+                HeaderDefaultStyling="true"
+                InitialState="UIStates.Collapsed"
+                Docked="DockingTypes.Bottom"
+                Size="150px"
+                PushExpand="false">
+                <Header>
+                    Some panel header text
+                </Header>
+                <Body>
+                @if (partialLoading is not null)
+                {
+                    <JDLoading FullScreen="false"
+                        Loading="partialLoading">
+                    </JDLoading>
+                }
+                @if (partialLoading is null)
+                {
+                    <JDButton OnClick="fullScreenLoading">
+                        Test Full Screen Loading...
+                    </JDButton>
+                    <JDButton OnClick="partialScreenLoading">
+                        Test Partial Screen Loading...
+                    </JDButton>
+                }
+                </Body>
+            </JDPanel>
+            <JDPanel
+                Id="TopPanel"
+                Tag="Panel"
+                HeaderDefaultStyling="true"
+                InitialState="UIStates.Collapsed"
+                Docked="DockingTypes.Top"
+                Size="150px"
+                PushExpand="true">
+                <Header>
+                    Some panel header text
+                </Header>
+                <Body>
+                    <JDInput Id="MultilineTextbox" DeBounce="true" MultiLine="true" MinWidth="100%" MultiLineHeight="100%" Placeholder="Example of multiline input..." />
+                </Body>
+            </JDPanel>
+        </Panels>
+    </JDPage>
+}
+
+
+
+@code {
+
+    private JDLoadingBase? fullLoading;
+    private JDLoadingBase? partialLoading;
+
+
+    public class ExampleItem
+    {
+        public string Name { get; set; }
+        public int Width { get; set; }
+    }
+
+    public List<ExampleItem> items = new List<ExampleItem>
+    {
+    new ExampleItem { Name = "Small", Width = 100 },
+    new ExampleItem { Name = "Medium", Width = 200 },
+    new ExampleItem { Name = "Large", Width = 300 }
+    };
+
+    public class ExampleRecord {
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public string Address { get; set; }
+        public string Email { get; set; }
+        public string Phone { get; set; }
+    }
+
+    public List<ExampleRecord> records = new List<ExampleRecord>
+    {
+        new ExampleRecord
+        {
+            Name = "Alice Johnson",
+            Age = 28,
+            Address = "123 Maple Street, Springfield, USA",
+            Email = "alice.johnson@example.com",
+            Phone = "123-456-7890"
+        },
+        new ExampleRecord
+        {
+            Name = "Bob Smith",
+            Age = 34,
+            Address = "456 Oak Avenue, Springfield, USA",
+            Email = "bob.smith@example.com",
+            Phone = "234-567-8901"
+        },
+        new ExampleRecord
+        {
+            Name = "Charlie Brown",
+            Age = 45,
+            Address = "789 Pine Lane, Springfield, USA",
+            Email = "charlie.brown@example.com",
+            Phone = "345-678-9012"
+        },
+        new ExampleRecord
+        {
+            Name = "Diana Prince",
+            Age = 30,
+            Address = "101 Elm Drive, Metropolis, USA",
+            Email = "diana.prince@example.com",
+            Phone = "456-789-0123"
+        },
+        new ExampleRecord
+        {
+            Name = "Ethan Hunt",
+            Age = 40,
+            Address = "202 Birch Boulevard, Gotham, USA",
+            Email = "ethan.hunt@example.com",
+            Phone = "567-890-1234"
+        }
+    };
+
+    protected override async Task OnInitializedAsync()
+    {
+        // [[[ START UP ]]]  ON START-UP FIRST THINGS TO DO BELOW
+        await SetUpLocalDBs(); // Set up local databases
+    }
+
+    public async Task fullScreenLoading()
+    {
+        fullLoading = new JDLoadingBase() { Type = JDLoadingTypes.Loading, IsLoading = true, Message = "Testing Full Screen Loading..." };
+        await InvokeAsync(StateHasChanged);
+        await Task.Delay(2000);
+        fullLoading = null;
+    }
+
+    public async Task partialScreenLoading()
+    {
+        partialLoading = new JDLoadingBase() { Type = JDLoadingTypes.Loading, IsLoading = true, Message = "Testing Partial Screen Loading..." };
+        await InvokeAsync(StateHasChanged);
+        await Task.Delay(2000);
+        partialLoading = null;
+    }
+
+    public async Task handleLoadData()
+    {
+        StateService.LoadData<ExampleRecord>("ExampleTable", records);
+        await InvokeAsync(StateHasChanged);
+    }
+
+    private async Task SetUpLocalDBs()
+    {
+        // Initialize JDTableHelper DB
+        await DatabaseService.InitializeInMemoryDatabaseAsync();
+    }
+}

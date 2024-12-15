@@ -1,0 +1,2777 @@
+{
+  "Version": 1,
+  "Hash": "kUAgWAfIapVvWngnrxum9N4RXiRD2sijpMolg/y1fQE=",
+  "Source": "JD.MauiBlazorUITestProject",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\repos\\JD.RCL\\JD.RCL.csproj",
+      "Version": 2,
+      "Source": "JD.RCL",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JD.MauiBlazorUITestProject\\wwwroot",
+      "Source": "JD.MauiBlazorUITestProject",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    },
+    {
+      "Name": "JD.RCL\\wwwroot",
+      "Source": "JD.RCL",
+      "ContentRoot": "D:\\repos\\JD.RCL\\wwwroot\\",
+      "BasePath": "_content/JD.RCL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-kde7tedmi3.gz",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint=kde7tedmi3}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cn3ac39uc4",
+      "Integrity": "CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css"
+    },
+    {
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint=95tbn7iyyv}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "o8jl2q2ij5",
+      "Integrity": "WCEzO353DiXOy7sI0g5EHzfz+3i3yVBSieaFw5T26e0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-6gzpyzhau4.gz",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "joqzyw7ssu",
+      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9sb0w9jnhl",
+      "Integrity": "qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\vi671j0sfo-npglxl09jl.gz",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=npglxl09jl}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yns5cjovm1",
+      "Integrity": "XhjvIy8QIUgyJbNbsPOOW2AvbBsCfpO1KbQpF8tijjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "kde7tedmi3",
+      "Integrity": "iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css"
+    },
+    {
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "95tbn7iyyv",
+      "Integrity": "Tfvxkj9nlbI07XpzhlyF+oEPHDPuDv2kW1x2N4G0B00=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\app.css",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e5tk7yf482",
+      "Integrity": "bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\index.html",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "npglxl09jl",
+      "Integrity": "JUMsb/X+mjCGiRn9NHddNi5D/pxIjNHU6Ae1aDd+Eg4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-udaq43ta3v.gz",
+      "SourceId": "JD.RCL",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/JD.RCL",
+      "RelativePath": "scripts/iprs#[.{fingerprint=udaq43ta3v}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\JD.RCL\\wwwroot\\scripts\\iprs.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2lk2t9gmf0",
+      "Integrity": "tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-udaq43ta3v.gz"
+    },
+    {
+      "Identity": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-un1ckjbyrc.gz",
+      "SourceId": "JD.RCL",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/JD.RCL",
+      "RelativePath": "JD.RCL#[.{fingerprint=un1ckjbyrc}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\JD.RCL.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5kdkmbfck9",
+      "Integrity": "W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-un1ckjbyrc.gz"
+    },
+    {
+      "Identity": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\JD.RCL.bundle.scp.css",
+      "SourceId": "JD.RCL",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/JD.RCL",
+      "RelativePath": "JD.RCL#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "un1ckjbyrc",
+      "Integrity": "aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\JD.RCL.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\repos\\JD.RCL\\wwwroot\\scripts\\iprs.js",
+      "SourceId": "JD.RCL",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\repos\\JD.RCL\\wwwroot\\",
+      "BasePath": "_content/JD.RCL",
+      "RelativePath": "scripts/iprs#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "udaq43ta3v",
+      "Integrity": "7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\JD.RCL\\wwwroot\\scripts\\iprs.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/JD.RCL/JD.RCL.bundle.scp.css",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-un1ckjbyrc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000147405660"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6783"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:19:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak="
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/JD.RCL.bundle.scp.css",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\JD.RCL.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48167"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:19:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak="
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/JD.RCL.bundle.scp.css.gz",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-un1ckjbyrc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:19:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao="
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-un1ckjbyrc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000147405660"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6783"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:19:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "un1ckjbyrc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/JD.RCL/JD.RCL.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\JD.RCL.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48167"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:19:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "un1ckjbyrc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/JD.RCL/JD.RCL.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css.gz",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-un1ckjbyrc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:19:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "un1ckjbyrc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/JD.RCL/JD.RCL.bundle.scp.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/scripts/iprs.js",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-udaq43ta3v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000127779198"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7825"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 00:59:07 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/scripts/iprs.js",
+      "AssetFile": "D:\\repos\\JD.RCL\\wwwroot\\scripts\\iprs.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 00:59:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/scripts/iprs.js.gz",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-udaq43ta3v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 00:59:07 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4="
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/scripts/iprs.udaq43ta3v.js",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-udaq43ta3v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000127779198"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7825"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 00:59:07 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "udaq43ta3v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/JD.RCL/scripts/iprs.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/scripts/iprs.udaq43ta3v.js",
+      "AssetFile": "D:\\repos\\JD.RCL\\wwwroot\\scripts\\iprs.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 00:59:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "udaq43ta3v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/JD.RCL/scripts/iprs.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/scripts/iprs.udaq43ta3v.js.gz",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-udaq43ta3v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 00:59:07 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "udaq43ta3v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/JD.RCL/scripts/iprs.js.gz"
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000571102227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000571102227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\vi671j0sfo-npglxl09jl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002109704641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XhjvIy8QIUgyJbNbsPOOW2AvbBsCfpO1KbQpF8tijjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:23:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JUMsb/X+mjCGiRn9NHddNi5D/pxIjNHU6Ae1aDd+Eg4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JUMsb/X+mjCGiRn9NHddNi5D/pxIjNHU6Ae1aDd+Eg4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JUMsb/X+mjCGiRn9NHddNi5D/pxIjNHU6Ae1aDd+Eg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:23:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JUMsb/X+mjCGiRn9NHddNi5D/pxIjNHU6Ae1aDd+Eg4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\vi671j0sfo-npglxl09jl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XhjvIy8QIUgyJbNbsPOOW2AvbBsCfpO1KbQpF8tijjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:23:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XhjvIy8QIUgyJbNbsPOOW2AvbBsCfpO1KbQpF8tijjQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.npglxl09jl.html",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\vi671j0sfo-npglxl09jl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002109704641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XhjvIy8QIUgyJbNbsPOOW2AvbBsCfpO1KbQpF8tijjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:23:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JUMsb/X+mjCGiRn9NHddNi5D/pxIjNHU6Ae1aDd+Eg4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "npglxl09jl"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JUMsb/X+mjCGiRn9NHddNi5D/pxIjNHU6Ae1aDd+Eg4="
+        }
+      ]
+    },
+    {
+      "Route": "index.npglxl09jl.html",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JUMsb/X+mjCGiRn9NHddNi5D/pxIjNHU6Ae1aDd+Eg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:23:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "npglxl09jl"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JUMsb/X+mjCGiRn9NHddNi5D/pxIjNHU6Ae1aDd+Eg4="
+        }
+      ]
+    },
+    {
+      "Route": "index.npglxl09jl.html.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\vi671j0sfo-npglxl09jl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XhjvIy8QIUgyJbNbsPOOW2AvbBsCfpO1KbQpF8tijjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:23:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "npglxl09jl"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XhjvIy8QIUgyJbNbsPOOW2AvbBsCfpO1KbQpF8tijjQ="
+        }
+      ]
+    },
+    {
+      "Route": "JD.MauiBlazorUITestProject.95tbn7iyyv.bundle.scp.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001592356688"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WCEzO353DiXOy7sI0g5EHzfz+3i3yVBSieaFw5T26e0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:27:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Tfvxkj9nlbI07XpzhlyF+oEPHDPuDv2kW1x2N4G0B00=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "95tbn7iyyv"
+        },
+        {
+          "Name": "label",
+          "Value": "JD.MauiBlazorUITestProject.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tfvxkj9nlbI07XpzhlyF+oEPHDPuDv2kW1x2N4G0B00="
+        }
+      ]
+    },
+    {
+      "Route": "JD.MauiBlazorUITestProject.95tbn7iyyv.bundle.scp.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tfvxkj9nlbI07XpzhlyF+oEPHDPuDv2kW1x2N4G0B00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:27:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "95tbn7iyyv"
+        },
+        {
+          "Name": "label",
+          "Value": "JD.MauiBlazorUITestProject.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tfvxkj9nlbI07XpzhlyF+oEPHDPuDv2kW1x2N4G0B00="
+        }
+      ]
+    },
+    {
+      "Route": "JD.MauiBlazorUITestProject.95tbn7iyyv.bundle.scp.css.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WCEzO353DiXOy7sI0g5EHzfz+3i3yVBSieaFw5T26e0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:27:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "95tbn7iyyv"
+        },
+        {
+          "Name": "label",
+          "Value": "JD.MauiBlazorUITestProject.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WCEzO353DiXOy7sI0g5EHzfz+3i3yVBSieaFw5T26e0="
+        }
+      ]
+    },
+    {
+      "Route": "JD.MauiBlazorUITestProject.bundle.scp.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001592356688"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WCEzO353DiXOy7sI0g5EHzfz+3i3yVBSieaFw5T26e0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:27:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Tfvxkj9nlbI07XpzhlyF+oEPHDPuDv2kW1x2N4G0B00=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tfvxkj9nlbI07XpzhlyF+oEPHDPuDv2kW1x2N4G0B00="
+        }
+      ]
+    },
+    {
+      "Route": "JD.MauiBlazorUITestProject.bundle.scp.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tfvxkj9nlbI07XpzhlyF+oEPHDPuDv2kW1x2N4G0B00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:27:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tfvxkj9nlbI07XpzhlyF+oEPHDPuDv2kW1x2N4G0B00="
+        }
+      ]
+    },
+    {
+      "Route": "JD.MauiBlazorUITestProject.bundle.scp.css.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WCEzO353DiXOy7sI0g5EHzfz+3i3yVBSieaFw5T26e0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:27:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WCEzO353DiXOy7sI0g5EHzfz+3i3yVBSieaFw5T26e0="
+        }
+      ]
+    },
+    {
+      "Route": "JD.MauiBlazorUITestProject.kde7tedmi3.styles.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-kde7tedmi3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001497005988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:29:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kde7tedmi3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s="
+        },
+        {
+          "Name": "label",
+          "Value": "JD.MauiBlazorUITestProject.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "JD.MauiBlazorUITestProject.kde7tedmi3.styles.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:29:30 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kde7tedmi3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s="
+        },
+        {
+          "Name": "label",
+          "Value": "JD.MauiBlazorUITestProject.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "JD.MauiBlazorUITestProject.kde7tedmi3.styles.css.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-kde7tedmi3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:29:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kde7tedmi3"
+        },
+        {
+          "Name": "label",
+          "Value": "JD.MauiBlazorUITestProject.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ="
+        }
+      ]
+    },
+    {
+      "Route": "JD.MauiBlazorUITestProject.styles.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-kde7tedmi3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001497005988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:29:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s="
+        }
+      ]
+    },
+    {
+      "Route": "JD.MauiBlazorUITestProject.styles.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:29:30 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s="
+        }
+      ]
+    },
+    {
+      "Route": "JD.MauiBlazorUITestProject.styles.css.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-kde7tedmi3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:29:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ="
+        }
+      ]
+    }
+  ]
+}
