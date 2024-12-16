@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
+      "Id": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
       "PackagePath": "staticwebassets\\JD.MauiBlazorUITestProject.styles.css"
     },
     {
-      "Id": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\app.css",
+      "Id": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\index.html",
+      "Id": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

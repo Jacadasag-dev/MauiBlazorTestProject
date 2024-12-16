@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JD.MauiBlazorUITestProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2f994e120eaa2f46e542618da5431a677b8b31d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("JD.MauiBlazorUITestProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JD.MauiBlazorUITestProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

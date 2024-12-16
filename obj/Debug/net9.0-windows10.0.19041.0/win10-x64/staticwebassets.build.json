@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X/iXSTe07IjhqbkGK8lIydTp3hRtzHwkeEYxGvQZqJ4=",
+  "Hash": "gZ8rR5mL+cf/4LoRPFiF2SMJW8tQ+XfrU4gs32D1Fbg=",
   "Source": "JD.MauiBlazorUITestProject",
   "BasePath": "/",
   "Mode": "Root",
@@ -22,7 +22,7 @@
     {
       "Name": "JD.MauiBlazorUITestProject\\wwwroot",
       "Source": "JD.MauiBlazorUITestProject",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     },
@@ -35,258 +35,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5nudr3whfc-odoo2rui5s.gz",
-      "SourceId": "JD.MauiBlazorUITestProject",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint=odoo2rui5s}]?.styles.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "hm6y0h9tuk",
-      "Integrity": "9/V/o0EQNW32IZvkg6g7MnVNvxJNZBivl4wiVjToX9w=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css"
-    },
-    {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
-      "SourceId": "JD.MauiBlazorUITestProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "fbl5ivwo6k",
-      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
-      "SourceId": "JD.MauiBlazorUITestProject",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint=95tbn7iyyv}]!.bundle.scp.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "o8jl2q2ij5",
-      "Integrity": "WCEzO353DiXOy7sI0g5EHzfz+3i3yVBSieaFw5T26e0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css"
-    },
-    {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
-      "SourceId": "JD.MauiBlazorUITestProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=istfb0f3jg}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "w73fuqnww4",
-      "Integrity": "9Es9QPBimDHYt+mzOUONLfJ0K3UnCE2BpvaX3+1U4gM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
-      "SourceId": "JD.MauiBlazorUITestProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\app.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "9sb0w9jnhl",
-      "Integrity": "qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\app.css"
-    },
-    {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vi671j0sfo-npglxl09jl.gz",
-      "SourceId": "JD.MauiBlazorUITestProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=npglxl09jl}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\index.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "yns5cjovm1",
-      "Integrity": "XhjvIy8QIUgyJbNbsPOOW2AvbBsCfpO1KbQpF8tijjQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\index.html"
-    },
-    {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
-      "SourceId": "JD.MauiBlazorUITestProject",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
-      "BasePath": "/",
-      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint}]?.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "odoo2rui5s",
-      "Integrity": "bH+NCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css"
-    },
-    {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css",
-      "SourceId": "JD.MauiBlazorUITestProject",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
-      "BasePath": "/",
-      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint}]!.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "95tbn7iyyv",
-      "Integrity": "Tfvxkj9nlbI07XpzhlyF+oEPHDPuDv2kW1x2N4G0B00=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css"
-    },
-    {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\app.css",
-      "SourceId": "JD.MauiBlazorUITestProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "e5tk7yf482",
-      "Integrity": "bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\app.css"
-    },
-    {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "SourceId": "JD.MauiBlazorUITestProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "istfb0f3jg",
-      "Integrity": "biAbVqgabvf7iryFz6p1AdQGKcOHLiiWl4F7W4QNawo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "SourceId": "JD.MauiBlazorUITestProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "8inm30yfxf",
-      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\index.html",
-      "SourceId": "JD.MauiBlazorUITestProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "npglxl09jl",
-      "Integrity": "JUMsb/X+mjCGiRn9NHddNi5D/pxIjNHU6Ae1aDd+Eg4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
-    },
     {
       "Identity": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-pyvol3vp17.gz",
       "SourceId": "JD.RCL",
@@ -370,6 +118,258 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\repos\\JD.RCL\\wwwroot\\scripts\\iprs.js"
+    },
+    {
+      "Identity": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5nudr3whfc-odoo2rui5s.gz",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint=odoo2rui5s}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hm6y0h9tuk",
+      "Integrity": "9/V/o0EQNW32IZvkg6g7MnVNvxJNZBivl4wiVjToX9w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css"
+    },
+    {
+      "Identity": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint=95tbn7iyyv}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "o8jl2q2ij5",
+      "Integrity": "WCEzO353DiXOy7sI0g5EHzfz+3i3yVBSieaFw5T26e0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=istfb0f3jg}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w73fuqnww4",
+      "Integrity": "9Es9QPBimDHYt+mzOUONLfJ0K3UnCE2BpvaX3+1U4gM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9sb0w9jnhl",
+      "Integrity": "qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vi671j0sfo-npglxl09jl.gz",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=npglxl09jl}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yns5cjovm1",
+      "Integrity": "XhjvIy8QIUgyJbNbsPOOW2AvbBsCfpO1KbQpF8tijjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "odoo2rui5s",
+      "Integrity": "bH+NCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css"
+    },
+    {
+      "Identity": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "95tbn7iyyv",
+      "Integrity": "Tfvxkj9nlbI07XpzhlyF+oEPHDPuDv2kW1x2N4G0B00=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\app.css",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e5tk7yf482",
+      "Integrity": "bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "istfb0f3jg",
+      "Integrity": "biAbVqgabvf7iryFz6p1AdQGKcOHLiiWl4F7W4QNawo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\index.html",
+      "SourceId": "JD.MauiBlazorUITestProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "npglxl09jl",
+      "Integrity": "JUMsb/X+mjCGiRn9NHddNi5D/pxIjNHU6Ae1aDd+Eg4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
     }
   ],
   "Endpoints": [
@@ -971,7 +971,7 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1026,7 +1026,7 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\app.css",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1063,7 +1063,7 @@
     },
     {
       "Route": "css/app.css.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1108,7 +1108,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1171,7 +1171,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\app.css",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1216,7 +1216,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rjtinvh6ma-e5tk7yf482.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1269,7 +1269,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1324,7 +1324,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1361,7 +1361,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1424,7 +1424,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1469,7 +1469,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1522,7 +1522,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1567,7 +1567,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1622,7 +1622,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1659,7 +1659,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\6rqrr9x85y-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1704,7 +1704,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.istfb0f3jg.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1767,7 +1767,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.istfb0f3jg.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1812,7 +1812,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.istfb0f3jg.css.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1865,7 +1865,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vi671j0sfo-npglxl09jl.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vi671j0sfo-npglxl09jl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1920,7 +1920,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\index.html",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1957,7 +1957,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vi671j0sfo-npglxl09jl.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vi671j0sfo-npglxl09jl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2002,7 +2002,7 @@
     },
     {
       "Route": "index.npglxl09jl.html",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vi671j0sfo-npglxl09jl.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vi671j0sfo-npglxl09jl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2065,7 +2065,7 @@
     },
     {
       "Route": "index.npglxl09jl.html",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\index.html",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2110,7 +2110,7 @@
     },
     {
       "Route": "index.npglxl09jl.html.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vi671j0sfo-npglxl09jl.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vi671j0sfo-npglxl09jl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2163,7 +2163,7 @@
     },
     {
       "Route": "JD.MauiBlazorUITestProject.95tbn7iyyv.bundle.scp.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2226,7 +2226,7 @@
     },
     {
       "Route": "JD.MauiBlazorUITestProject.95tbn7iyyv.bundle.scp.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2271,7 +2271,7 @@
     },
     {
       "Route": "JD.MauiBlazorUITestProject.95tbn7iyyv.bundle.scp.css.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2324,7 +2324,7 @@
     },
     {
       "Route": "JD.MauiBlazorUITestProject.bundle.scp.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2379,7 +2379,7 @@
     },
     {
       "Route": "JD.MauiBlazorUITestProject.bundle.scp.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2416,7 +2416,7 @@
     },
     {
       "Route": "JD.MauiBlazorUITestProject.bundle.scp.css.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\e1hryf6opf-95tbn7iyyv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2461,7 +2461,7 @@
     },
     {
       "Route": "JD.MauiBlazorUITestProject.odoo2rui5s.styles.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5nudr3whfc-odoo2rui5s.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5nudr3whfc-odoo2rui5s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2528,7 +2528,7 @@
     },
     {
       "Route": "JD.MauiBlazorUITestProject.odoo2rui5s.styles.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2577,7 +2577,7 @@
     },
     {
       "Route": "JD.MauiBlazorUITestProject.odoo2rui5s.styles.css.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5nudr3whfc-odoo2rui5s.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5nudr3whfc-odoo2rui5s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2630,7 +2630,7 @@
     },
     {
       "Route": "JD.MauiBlazorUITestProject.styles.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5nudr3whfc-odoo2rui5s.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5nudr3whfc-odoo2rui5s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2689,7 +2689,7 @@
     },
     {
       "Route": "JD.MauiBlazorUITestProject.styles.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2730,7 +2730,7 @@
     },
     {
       "Route": "JD.MauiBlazorUITestProject.styles.css.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5nudr3whfc-odoo2rui5s.gz",
+      "AssetFile": "D:\\repos\\MauiBlazorTestProject\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5nudr3whfc-odoo2rui5s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

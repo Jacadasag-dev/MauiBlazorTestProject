@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\repos\\JD.MauiBlazorUITestProject\\",
+  "WorkspaceRootPath": "D:\\repos\\MauiBlazorTestProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6AE2A0B-5F48-44E8-8171-DB4224763709}|JD.MauiBlazorUITestProject.csproj|d:\\repos\\jd.mauiblazoruitestproject\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A6AE2A0B-5F48-44E8-8171-DB4224763709}|JD.MauiBlazorUITestProject.csproj|d:\\repos\\mauiblazortestproject\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6AE2A0B-5F48-44E8-8171-DB4224763709}|JD.MauiBlazorUITestProject.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -90,11 +90,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Home.razor",
-              "DocumentMoniker": "D:\\repos\\JD.MauiBlazorUITestProject\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "D:\\repos\\MauiBlazorTestProject\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "D:\\repos\\JD.MauiBlazorUITestProject\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\repos\\MauiBlazorTestProject\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-15T18:35:01.438Z",
               "EditorCaption": ""
