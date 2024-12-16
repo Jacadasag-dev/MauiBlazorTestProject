@@ -52,13 +52,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JD.MauiBlazorUITestProject.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"odoo2rui5s"},{"Name":"integrity","Value":"sha256-bH\u002BNCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4="},{"Name":"label","Value":"JD.MauiBlazorUITestProject.styles.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1859"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bH\u002BNCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Dec 2024 20:48:29 GMT"},{"Name":"Link","Value":"\u003C_content/JD.RCL/JD.RCL.ea4hhzglw4.bundle.scp.css\u003E; rel=\u0022preload\u0022; as=\u0022style\u0022"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1859"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bH\u002BNCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Dec 2024 03:21:23 GMT"},{"Name":"Link","Value":"\u003C_content/JD.RCL/JD.RCL.ea4hhzglw4.bundle.scp.css\u003E; rel=\u0022preload\u0022; as=\u0022style\u0022"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="JD.MauiBlazorUITestProject.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JD.MauiBlazorUITestProject.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bH\u002BNCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1859"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bH\u002BNCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Dec 2024 20:48:29 GMT"},{"Name":"Link","Value":"\u003C_content/JD.RCL/JD.RCL.ea4hhzglw4.bundle.scp.css\u003E; rel=\u0022preload\u0022; as=\u0022style\u0022"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1859"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bH\u002BNCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Dec 2024 03:21:23 GMT"},{"Name":"Link","Value":"\u003C_content/JD.RCL/JD.RCL.ea4hhzglw4.bundle.scp.css\u003E; rel=\u0022preload\u0022; as=\u0022style\u0022"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

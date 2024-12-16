@@ -43,7 +43,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:48:29 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:23 GMT"
         },
         {
           "Name": "Link",
@@ -110,7 +110,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:48:29 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:23 GMT"
         },
         {
           "Name": "Link",
@@ -163,7 +163,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:48:29 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:23 GMT"
         },
         {
           "Name": "Link",
@@ -216,7 +216,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:48:29 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:23 GMT"
         },
         {
           "Name": "Vary",
@@ -269,7 +269,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:48:29 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:23 GMT"
         },
         {
           "Name": "Vary",
@@ -332,7 +332,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:48:29 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:23 GMT"
         },
         {
           "Name": "Link",
@@ -391,7 +391,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:48:29 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:23 GMT"
         },
         {
           "Name": "Link",
@@ -436,7 +436,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:48:29 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:23 GMT"
         },
         {
           "Name": "Link",
@@ -481,7 +481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:48:29 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:23 GMT"
         },
         {
           "Name": "Vary",
@@ -526,7 +526,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:48:29 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:23 GMT"
         },
         {
           "Name": "Vary",
@@ -1055,290 +1055,13 @@
       ]
     },
     {
-      "Route": "_content/JD.RCL/scripts/iprs.gpvjhhe975.js",
-      "AssetFile": "_content/JD.RCL/scripts/iprs.js.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000124797205"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8012"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gZb92YUH0B4ol500Hm6fi4MUzxg5EZsncQPNNpSzqgE=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"RNyEhNF5PhhB6pLSetoAJqaPTXBZpQpQI+dxzd4Goew=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:42:38 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gpvjhhe975"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RNyEhNF5PhhB6pLSetoAJqaPTXBZpQpQI+dxzd4Goew="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/JD.RCL/scripts/iprs.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/JD.RCL/scripts/iprs.gpvjhhe975.js",
-      "AssetFile": "_content/JD.RCL/scripts/iprs.js.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000144696860"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6910"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bC9qmRgGN0gGIAuOtA3QlWDCO7dQUojScgyFI06aG8Q=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"RNyEhNF5PhhB6pLSetoAJqaPTXBZpQpQI+dxzd4Goew=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:42:38 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gpvjhhe975"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RNyEhNF5PhhB6pLSetoAJqaPTXBZpQpQI+dxzd4Goew="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/JD.RCL/scripts/iprs.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/JD.RCL/scripts/iprs.gpvjhhe975.js",
-      "AssetFile": "_content/JD.RCL/scripts/iprs.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "56989"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RNyEhNF5PhhB6pLSetoAJqaPTXBZpQpQI+dxzd4Goew=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:42:38 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gpvjhhe975"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RNyEhNF5PhhB6pLSetoAJqaPTXBZpQpQI+dxzd4Goew="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/JD.RCL/scripts/iprs.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/JD.RCL/scripts/iprs.gpvjhhe975.js.br",
-      "AssetFile": "_content/JD.RCL/scripts/iprs.js.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6910"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bC9qmRgGN0gGIAuOtA3QlWDCO7dQUojScgyFI06aG8Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:42:38 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gpvjhhe975"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bC9qmRgGN0gGIAuOtA3QlWDCO7dQUojScgyFI06aG8Q="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/JD.RCL/scripts/iprs.js.br"
-        }
-      ]
-    },
-    {
-      "Route": "_content/JD.RCL/scripts/iprs.gpvjhhe975.js.gz",
-      "AssetFile": "_content/JD.RCL/scripts/iprs.js.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8012"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gZb92YUH0B4ol500Hm6fi4MUzxg5EZsncQPNNpSzqgE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:42:38 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gpvjhhe975"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gZb92YUH0B4ol500Hm6fi4MUzxg5EZsncQPNNpSzqgE="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/JD.RCL/scripts/iprs.js.gz"
-        }
-      ]
-    },
-    {
       "Route": "_content/JD.RCL/scripts/iprs.js",
       "AssetFile": "_content/JD.RCL/scripts/iprs.js.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000124797205"
+          "Quality": "0.000124440020"
         }
       ],
       "ResponseHeaders": [
@@ -1356,7 +1079,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8012"
+          "Value": "8035"
         },
         {
           "Name": "Content-Type",
@@ -1364,15 +1087,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gZb92YUH0B4ol500Hm6fi4MUzxg5EZsncQPNNpSzqgE=\""
+          "Value": "\"shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RNyEhNF5PhhB6pLSetoAJqaPTXBZpQpQI+dxzd4Goew=\""
+          "Value": "W/\"L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:42:38 GMT"
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
         },
         {
           "Name": "Vary",
@@ -1382,7 +1105,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RNyEhNF5PhhB6pLSetoAJqaPTXBZpQpQI+dxzd4Goew="
+          "Value": "sha256-L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q="
         }
       ]
     },
@@ -1393,7 +1116,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000144696860"
+          "Quality": "0.000144654998"
         }
       ],
       "ResponseHeaders": [
@@ -1411,7 +1134,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6910"
+          "Value": "6912"
         },
         {
           "Name": "Content-Type",
@@ -1419,15 +1142,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bC9qmRgGN0gGIAuOtA3QlWDCO7dQUojScgyFI06aG8Q=\""
+          "Value": "\"PB+TjHVe6vHfISuD3hupB78qN38oxZq7CvruiyPpa7s=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RNyEhNF5PhhB6pLSetoAJqaPTXBZpQpQI+dxzd4Goew=\""
+          "Value": "W/\"L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:42:38 GMT"
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
         },
         {
           "Name": "Vary",
@@ -1437,7 +1160,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RNyEhNF5PhhB6pLSetoAJqaPTXBZpQpQI+dxzd4Goew="
+          "Value": "sha256-L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q="
         }
       ]
     },
@@ -1456,7 +1179,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "56989"
+          "Value": "57302"
         },
         {
           "Name": "Content-Type",
@@ -1464,17 +1187,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RNyEhNF5PhhB6pLSetoAJqaPTXBZpQpQI+dxzd4Goew=\""
+          "Value": "\"L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:42:38 GMT"
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RNyEhNF5PhhB6pLSetoAJqaPTXBZpQpQI+dxzd4Goew="
+          "Value": "sha256-L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q="
         }
       ]
     },
@@ -1497,7 +1220,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6910"
+          "Value": "6912"
         },
         {
           "Name": "Content-Type",
@@ -1505,11 +1228,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bC9qmRgGN0gGIAuOtA3QlWDCO7dQUojScgyFI06aG8Q=\""
+          "Value": "\"PB+TjHVe6vHfISuD3hupB78qN38oxZq7CvruiyPpa7s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:42:38 GMT"
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
         },
         {
           "Name": "Vary",
@@ -1519,7 +1242,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bC9qmRgGN0gGIAuOtA3QlWDCO7dQUojScgyFI06aG8Q="
+          "Value": "sha256-PB+TjHVe6vHfISuD3hupB78qN38oxZq7CvruiyPpa7s="
         }
       ]
     },
@@ -1542,7 +1265,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8012"
+          "Value": "8035"
         },
         {
           "Name": "Content-Type",
@@ -1550,11 +1273,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gZb92YUH0B4ol500Hm6fi4MUzxg5EZsncQPNNpSzqgE=\""
+          "Value": "\"shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 20:42:38 GMT"
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
         },
         {
           "Name": "Vary",
@@ -1564,7 +1287,284 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gZb92YUH0B4ol500Hm6fi4MUzxg5EZsncQPNNpSzqgE="
+          "Value": "sha256-shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA="
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/scripts/iprs.pyvol3vp17.js",
+      "AssetFile": "_content/JD.RCL/scripts/iprs.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000124440020"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pyvol3vp17"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/JD.RCL/scripts/iprs.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/scripts/iprs.pyvol3vp17.js",
+      "AssetFile": "_content/JD.RCL/scripts/iprs.js.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000144654998"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PB+TjHVe6vHfISuD3hupB78qN38oxZq7CvruiyPpa7s=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pyvol3vp17"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/JD.RCL/scripts/iprs.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/scripts/iprs.pyvol3vp17.js",
+      "AssetFile": "_content/JD.RCL/scripts/iprs.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pyvol3vp17"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/JD.RCL/scripts/iprs.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/scripts/iprs.pyvol3vp17.js.br",
+      "AssetFile": "_content/JD.RCL/scripts/iprs.js.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PB+TjHVe6vHfISuD3hupB78qN38oxZq7CvruiyPpa7s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pyvol3vp17"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PB+TjHVe6vHfISuD3hupB78qN38oxZq7CvruiyPpa7s="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/JD.RCL/scripts/iprs.js.br"
+        }
+      ]
+    },
+    {
+      "Route": "_content/JD.RCL/scripts/iprs.pyvol3vp17.js.gz",
+      "AssetFile": "_content/JD.RCL/scripts/iprs.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pyvol3vp17"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/JD.RCL/scripts/iprs.js.gz"
         }
       ]
     },

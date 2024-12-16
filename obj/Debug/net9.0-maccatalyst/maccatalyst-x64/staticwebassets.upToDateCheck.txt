@@ -1,8 +1,0 @@
-D:\repos\JD.MauiBlazorUITestProject\wwwroot\css\bootstrap\bootstrap.min.css.map
-D:\repos\JD.MauiBlazorUITestProject\wwwroot\css\bootstrap\bootstrap.min.css
-D:\repos\JD.MauiBlazorUITestProject\wwwroot\css\app.css
-D:\repos\JD.MauiBlazorUITestProject\wwwroot\index.html
-wwwroot\css\app.css
-wwwroot\css\bootstrap\bootstrap.min.css
-wwwroot\css\bootstrap\bootstrap.min.css.map
-wwwroot\index.html

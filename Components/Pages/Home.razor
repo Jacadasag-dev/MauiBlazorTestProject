@@ -15,15 +15,34 @@
             Some page header text...
         </Header>
         <Body>
-            <div class="p-1">
+            <div class="p-4">
                 <JDButton OnClick="handleLoadData">Load Data</JDButton>
+                <div class="p-1">
+                    <JDTable Id="ExampleTable" TItem="ExampleRecord" StickyHeader="true"/>
+                </div>
             </div>
-            <JDTable Id="ExampleTable"
-                     TItem="ExampleRecord"
-                     StickyHeader="true">
-            </JDTable>
         </Body>
         <Panels>
+            <JDPanel
+                Id="LeftPanel"
+                Tag="Panel"
+                HeaderDefaultStyling="true"
+                InitialState="UIStates.Collapsed"
+                Docked="DockingTypes.Left"
+                Size="150px"
+                PushExpand="false">
+                <Header>
+                    Some panel header text
+                </Header>
+                <Body>
+                    <div class="p-1">
+                        <JDCheckbox Id="Checkbox1" Label="TestCheckbox" />
+                    </div>
+                    <div class="p-1">
+                        <JDSlider Id="Slider1" Label="TestSlider" />
+                    </div>                    
+                </Body>
+            </JDPanel>
             <JDPanel 
                 Id="BottomPanel"
                 Tag="Panel"
@@ -96,7 +115,7 @@
     public class ExampleRecord {
         public string Name { get; set; }
         public int Age { get; set; }
-        public string Address { get; set; }
+        public string? Address { get; set; }
         public string Email { get; set; }
         public string Phone { get; set; }
     }
@@ -107,7 +126,7 @@
         {
             Name = "Alice Johnson",
             Age = 28,
-            Address = "123 Maple Street, Springfield, USA",
+            Address = null,
             Email = "alice.johnson@example.com",
             Phone = "123-456-7890"
         },
@@ -117,7 +136,7 @@
             Age = 34,
             Address = "456 Oak Avenue, Springfield, USA",
             Email = "bob.smith@example.com",
-            Phone = "234-567-8901"
+            Phone = ""
         },
         new ExampleRecord
         {

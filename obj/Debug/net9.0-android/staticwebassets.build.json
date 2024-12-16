@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kUAgWAfIapVvWngnrxum9N4RXiRD2sijpMolg/y1fQE=",
+  "Hash": "yzdTPKHnbjRPh4wXw967F7QsbGy1HeIzx8Cw/ZnSPyE=",
   "Source": "JD.MauiBlazorUITestProject",
   "BasePath": "/",
   "Mode": "Root",
@@ -36,12 +36,12 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-kde7tedmi3.gz",
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-odoo2rui5s.gz",
       "SourceId": "JD.MauiBlazorUITestProject",
       "SourceType": "Computed",
       "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint=kde7tedmi3}]?.styles.css.gz",
+      "RelativePath": "JD.MauiBlazorUITestProject#[.{fingerprint=odoo2rui5s}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -50,8 +50,8 @@
       "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cn3ac39uc4",
-      "Integrity": "CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ=",
+      "Fingerprint": "hm6y0h9tuk",
+      "Integrity": "9/V/o0EQNW32IZvkg6g7MnVNvxJNZBivl4wiVjToX9w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css"
@@ -99,12 +99,12 @@
       "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\JD.MauiBlazorUITestProject.bundle.scp.css"
     },
     {
-      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-6gzpyzhau4.gz",
+      "Identity": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
       "SourceId": "JD.MauiBlazorUITestProject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=istfb0f3jg}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -113,8 +113,8 @@
       "RelatedAsset": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "joqzyw7ssu",
-      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "Fingerprint": "w73fuqnww4",
+      "Integrity": "9Es9QPBimDHYt+mzOUONLfJ0K3UnCE2BpvaX3+1U4gM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
@@ -176,8 +176,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "kde7tedmi3",
-      "Integrity": "iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s=",
+      "Fingerprint": "odoo2rui5s",
+      "Integrity": "bH+NCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css"
@@ -239,8 +239,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6gzpyzhau4",
-      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "Fingerprint": "istfb0f3jg",
+      "Integrity": "biAbVqgabvf7iryFz6p1AdQGKcOHLiiWl4F7W4QNawo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
@@ -288,12 +288,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-udaq43ta3v.gz",
+      "Identity": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-pyvol3vp17.gz",
       "SourceId": "JD.RCL",
       "SourceType": "Project",
       "ContentRoot": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/JD.RCL",
-      "RelativePath": "scripts/iprs#[.{fingerprint=udaq43ta3v}]?.js.gz",
+      "RelativePath": "scripts/iprs#[.{fingerprint=pyvol3vp17}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -302,19 +302,19 @@
       "RelatedAsset": "D:\\repos\\JD.RCL\\wwwroot\\scripts\\iprs.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2lk2t9gmf0",
-      "Integrity": "tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4=",
+      "Fingerprint": "2zqjtqvsg8",
+      "Integrity": "shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-udaq43ta3v.gz"
+      "OriginalItemSpec": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-pyvol3vp17.gz"
     },
     {
-      "Identity": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-un1ckjbyrc.gz",
+      "Identity": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-ea4hhzglw4.gz",
       "SourceId": "JD.RCL",
       "SourceType": "Project",
       "ContentRoot": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/JD.RCL",
-      "RelativePath": "JD.RCL#[.{fingerprint=un1ckjbyrc}]!.bundle.scp.css.gz",
+      "RelativePath": "JD.RCL#[.{fingerprint=ea4hhzglw4}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -323,11 +323,11 @@
       "RelatedAsset": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\JD.RCL.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5kdkmbfck9",
-      "Integrity": "W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao=",
+      "Fingerprint": "m5ia07xh1r",
+      "Integrity": "akYC+KvXWBknfP/h9TKcszYZsdfa/Tpnl4Vs8G2TxDI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-un1ckjbyrc.gz"
+      "OriginalItemSpec": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-ea4hhzglw4.gz"
     },
     {
       "Identity": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\JD.RCL.bundle.scp.css",
@@ -344,8 +344,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "un1ckjbyrc",
-      "Integrity": "aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak=",
+      "Fingerprint": "ea4hhzglw4",
+      "Integrity": "9oyQsH7BsNQv/6tsyhCIhu4WuHi1M7iY/ixoVgO75R8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\JD.RCL.bundle.scp.css"
@@ -365,8 +365,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "udaq43ta3v",
-      "Integrity": "7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ=",
+      "Fingerprint": "pyvol3vp17",
+      "Integrity": "L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\repos\\JD.RCL\\wwwroot\\scripts\\iprs.js"
@@ -375,12 +375,12 @@
   "Endpoints": [
     {
       "Route": "_content/JD.RCL/JD.RCL.bundle.scp.css",
-      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-un1ckjbyrc.gz",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-ea4hhzglw4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000147405660"
+          "Quality": "0.000153704273"
         }
       ],
       "ResponseHeaders": [
@@ -398,15 +398,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6783"
+          "Value": "6505"
         },
         {
           "Name": "ETag",
-          "Value": "\"W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao=\""
+          "Value": "\"akYC+KvXWBknfP/h9TKcszYZsdfa/Tpnl4Vs8G2TxDI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:19:42 GMT"
+          "Value": "Sun, 15 Dec 2024 20:48:27 GMT"
         },
         {
           "Name": "Vary",
@@ -418,13 +418,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak=\""
+          "Value": "W/\"9oyQsH7BsNQv/6tsyhCIhu4WuHi1M7iY/ixoVgO75R8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak="
+          "Value": "sha256-9oyQsH7BsNQv/6tsyhCIhu4WuHi1M7iY/ixoVgO75R8="
         }
       ]
     },
@@ -443,7 +443,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "48167"
+          "Value": "45034"
         },
         {
           "Name": "Content-Type",
@@ -451,23 +451,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak=\""
+          "Value": "\"9oyQsH7BsNQv/6tsyhCIhu4WuHi1M7iY/ixoVgO75R8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:19:42 GMT"
+          "Value": "Sun, 15 Dec 2024 20:48:27 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak="
+          "Value": "sha256-9oyQsH7BsNQv/6tsyhCIhu4WuHi1M7iY/ixoVgO75R8="
         }
       ]
     },
     {
       "Route": "_content/JD.RCL/JD.RCL.bundle.scp.css.gz",
-      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-un1ckjbyrc.gz",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-ea4hhzglw4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -484,7 +484,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6783"
+          "Value": "6505"
         },
         {
           "Name": "Content-Type",
@@ -492,11 +492,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao=\""
+          "Value": "\"akYC+KvXWBknfP/h9TKcszYZsdfa/Tpnl4Vs8G2TxDI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:19:42 GMT"
+          "Value": "Sun, 15 Dec 2024 20:48:27 GMT"
         },
         {
           "Name": "Vary",
@@ -506,18 +506,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao="
+          "Value": "sha256-akYC+KvXWBknfP/h9TKcszYZsdfa/Tpnl4Vs8G2TxDI="
         }
       ]
     },
     {
-      "Route": "_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css",
-      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-un1ckjbyrc.gz",
+      "Route": "_content/JD.RCL/JD.RCL.ea4hhzglw4.bundle.scp.css",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-ea4hhzglw4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000147405660"
+          "Quality": "0.000153704273"
         }
       ],
       "ResponseHeaders": [
@@ -535,15 +535,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6783"
+          "Value": "6505"
         },
         {
           "Name": "ETag",
-          "Value": "\"W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao=\""
+          "Value": "\"akYC+KvXWBknfP/h9TKcszYZsdfa/Tpnl4Vs8G2TxDI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:19:42 GMT"
+          "Value": "Sun, 15 Dec 2024 20:48:27 GMT"
         },
         {
           "Name": "Vary",
@@ -555,17 +555,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak=\""
+          "Value": "W/\"9oyQsH7BsNQv/6tsyhCIhu4WuHi1M7iY/ixoVgO75R8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "un1ckjbyrc"
+          "Value": "ea4hhzglw4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak="
+          "Value": "sha256-9oyQsH7BsNQv/6tsyhCIhu4WuHi1M7iY/ixoVgO75R8="
         },
         {
           "Name": "label",
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "Route": "_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css",
+      "Route": "_content/JD.RCL/JD.RCL.ea4hhzglw4.bundle.scp.css",
       "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\JD.RCL.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -588,7 +588,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "48167"
+          "Value": "45034"
         },
         {
           "Name": "Content-Type",
@@ -596,21 +596,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak=\""
+          "Value": "\"9oyQsH7BsNQv/6tsyhCIhu4WuHi1M7iY/ixoVgO75R8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:19:42 GMT"
+          "Value": "Sun, 15 Dec 2024 20:48:27 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "un1ckjbyrc"
+          "Value": "ea4hhzglw4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aoMYecRnI7U83iSA+8dc29qCtCIBlloTliE/rxWxLak="
+          "Value": "sha256-9oyQsH7BsNQv/6tsyhCIhu4WuHi1M7iY/ixoVgO75R8="
         },
         {
           "Name": "label",
@@ -619,8 +619,8 @@
       ]
     },
     {
-      "Route": "_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css.gz",
-      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-un1ckjbyrc.gz",
+      "Route": "_content/JD.RCL/JD.RCL.ea4hhzglw4.bundle.scp.css.gz",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\euf53i3jnx-ea4hhzglw4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -637,7 +637,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6783"
+          "Value": "6505"
         },
         {
           "Name": "Content-Type",
@@ -645,11 +645,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao=\""
+          "Value": "\"akYC+KvXWBknfP/h9TKcszYZsdfa/Tpnl4Vs8G2TxDI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:19:42 GMT"
+          "Value": "Sun, 15 Dec 2024 20:48:27 GMT"
         },
         {
           "Name": "Vary",
@@ -659,11 +659,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "un1ckjbyrc"
+          "Value": "ea4hhzglw4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-W6wzX38kapiZJh4YTpxSjIHyoG1Dnd/gcG939xA/7Ao="
+          "Value": "sha256-akYC+KvXWBknfP/h9TKcszYZsdfa/Tpnl4Vs8G2TxDI="
         },
         {
           "Name": "label",
@@ -673,12 +673,12 @@
     },
     {
       "Route": "_content/JD.RCL/scripts/iprs.js",
-      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-udaq43ta3v.gz",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-pyvol3vp17.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000127779198"
+          "Quality": "0.000124440020"
         }
       ],
       "ResponseHeaders": [
@@ -696,15 +696,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7825"
+          "Value": "8035"
         },
         {
           "Name": "ETag",
-          "Value": "\"tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4=\""
+          "Value": "\"shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 00:59:07 GMT"
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
         },
         {
           "Name": "Vary",
@@ -716,13 +716,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ=\""
+          "Value": "W/\"L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ="
+          "Value": "sha256-L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q="
         }
       ]
     },
@@ -741,7 +741,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "56757"
+          "Value": "57302"
         },
         {
           "Name": "Content-Type",
@@ -749,23 +749,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ=\""
+          "Value": "\"L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 00:59:07 GMT"
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ="
+          "Value": "sha256-L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q="
         }
       ]
     },
     {
       "Route": "_content/JD.RCL/scripts/iprs.js.gz",
-      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-udaq43ta3v.gz",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-pyvol3vp17.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -782,7 +782,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7825"
+          "Value": "8035"
         },
         {
           "Name": "Content-Type",
@@ -790,11 +790,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4=\""
+          "Value": "\"shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 00:59:07 GMT"
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
         },
         {
           "Name": "Vary",
@@ -804,18 +804,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4="
+          "Value": "sha256-shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA="
         }
       ]
     },
     {
-      "Route": "_content/JD.RCL/scripts/iprs.udaq43ta3v.js",
-      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-udaq43ta3v.gz",
+      "Route": "_content/JD.RCL/scripts/iprs.pyvol3vp17.js",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-pyvol3vp17.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000127779198"
+          "Quality": "0.000124440020"
         }
       ],
       "ResponseHeaders": [
@@ -833,15 +833,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7825"
+          "Value": "8035"
         },
         {
           "Name": "ETag",
-          "Value": "\"tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4=\""
+          "Value": "\"shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 00:59:07 GMT"
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
         },
         {
           "Name": "Vary",
@@ -853,17 +853,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ=\""
+          "Value": "W/\"L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "udaq43ta3v"
+          "Value": "pyvol3vp17"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ="
+          "Value": "sha256-L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q="
         },
         {
           "Name": "label",
@@ -872,7 +872,7 @@
       ]
     },
     {
-      "Route": "_content/JD.RCL/scripts/iprs.udaq43ta3v.js",
+      "Route": "_content/JD.RCL/scripts/iprs.pyvol3vp17.js",
       "AssetFile": "D:\\repos\\JD.RCL\\wwwroot\\scripts\\iprs.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -886,7 +886,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "56757"
+          "Value": "57302"
         },
         {
           "Name": "Content-Type",
@@ -894,21 +894,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ=\""
+          "Value": "\"L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 00:59:07 GMT"
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "udaq43ta3v"
+          "Value": "pyvol3vp17"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7og0cxU7eASu2umZYbB8/egozg3SsymivWvTsy5IYRQ="
+          "Value": "sha256-L/ePifMOOPCvUha6yyjb/nkq8bbnUZXDgF5RfuDGm8Q="
         },
         {
           "Name": "label",
@@ -917,8 +917,8 @@
       ]
     },
     {
-      "Route": "_content/JD.RCL/scripts/iprs.udaq43ta3v.js.gz",
-      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-udaq43ta3v.gz",
+      "Route": "_content/JD.RCL/scripts/iprs.pyvol3vp17.js.gz",
+      "AssetFile": "D:\\repos\\JD.RCL\\obj\\Debug\\net9.0\\compressed\\5e03ts3gn1-pyvol3vp17.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -935,7 +935,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7825"
+          "Value": "8035"
         },
         {
           "Name": "Content-Type",
@@ -943,11 +943,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4=\""
+          "Value": "\"shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 00:59:07 GMT"
+          "Value": "Mon, 16 Dec 2024 01:43:11 GMT"
         },
         {
           "Name": "Vary",
@@ -957,11 +957,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "udaq43ta3v"
+          "Value": "pyvol3vp17"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tlXyRFD+lNYc60H9Y5quTfFH7eJ4+1IYBBaAG8AJd/4="
+          "Value": "sha256-shtk0apChOX0ckUvgK+f6cReS773wB/gkUQYnKpWPBA="
         },
         {
           "Name": "label",
@@ -1268,174 +1268,13 @@
       ]
     },
     {
-      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-6gzpyzhau4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000041844506"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23897"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6gzpyzhau4"
-        },
-        {
-          "Name": "label",
-          "Value": "css/bootstrap/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
-        }
-      ]
-    },
-    {
-      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162726"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6gzpyzhau4"
-        },
-        {
-          "Name": "label",
-          "Value": "css/bootstrap/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
-        }
-      ]
-    },
-    {
-      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-6gzpyzhau4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23897"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6gzpyzhau4"
-        },
-        {
-          "Name": "label",
-          "Value": "css/bootstrap/bootstrap.min.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
-        }
-      ]
-    },
-    {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-6gzpyzhau4.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000041844506"
+          "Quality": "0.000041772839"
         }
       ],
       "ResponseHeaders": [
@@ -1445,15 +1284,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23897"
+          "Value": "23938"
         },
         {
           "Name": "ETag",
-          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+          "Value": "\"9Es9QPBimDHYt+mzOUONLfJ0K3UnCE2BpvaX3+1U4gM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+          "Value": "Sun, 15 Dec 2024 01:51:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1473,13 +1312,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+          "Value": "W/\"biAbVqgabvf7iryFz6p1AdQGKcOHLiiWl4F7W4QNawo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+          "Value": "sha256-biAbVqgabvf7iryFz6p1AdQGKcOHLiiWl4F7W4QNawo="
         }
       ]
     },
@@ -1494,7 +1333,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162726"
+          "Value": "164639"
         },
         {
           "Name": "Content-Type",
@@ -1502,11 +1341,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+          "Value": "\"biAbVqgabvf7iryFz6p1AdQGKcOHLiiWl4F7W4QNawo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+          "Value": "Sun, 15 Dec 2024 01:51:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1516,7 +1355,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+          "Value": "sha256-biAbVqgabvf7iryFz6p1AdQGKcOHLiiWl4F7W4QNawo="
         }
       ]
     },
@@ -1683,7 +1522,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-6gzpyzhau4.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1692,7 +1531,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23897"
+          "Value": "23938"
         },
         {
           "Name": "Content-Type",
@@ -1700,11 +1539,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+          "Value": "\"9Es9QPBimDHYt+mzOUONLfJ0K3UnCE2BpvaX3+1U4gM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:21:58 GMT"
+          "Value": "Sun, 15 Dec 2024 01:51:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1722,7 +1561,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+          "Value": "sha256-9Es9QPBimDHYt+mzOUONLfJ0K3UnCE2BpvaX3+1U4gM="
         }
       ]
     },
@@ -1860,6 +1699,167 @@
         {
           "Name": "integrity",
           "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.istfb0f3jg.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041772839"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23938"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9Es9QPBimDHYt+mzOUONLfJ0K3UnCE2BpvaX3+1U4gM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:51:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"biAbVqgabvf7iryFz6p1AdQGKcOHLiiWl4F7W4QNawo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "istfb0f3jg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-biAbVqgabvf7iryFz6p1AdQGKcOHLiiWl4F7W4QNawo="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.istfb0f3jg.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164639"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"biAbVqgabvf7iryFz6p1AdQGKcOHLiiWl4F7W4QNawo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:51:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "istfb0f3jg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-biAbVqgabvf7iryFz6p1AdQGKcOHLiiWl4F7W4QNawo="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.istfb0f3jg.css.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\ftj2gwj89w-istfb0f3jg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9Es9QPBimDHYt+mzOUONLfJ0K3UnCE2BpvaX3+1U4gM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:51:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "istfb0f3jg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9Es9QPBimDHYt+mzOUONLfJ0K3UnCE2BpvaX3+1U4gM="
         }
       ]
     },
@@ -2186,7 +2186,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:27:36 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2247,7 +2247,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:27:36 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2292,7 +2292,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:27:36 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2347,7 +2347,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:27:36 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2400,7 +2400,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:27:36 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2437,7 +2437,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:27:36 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2460,8 +2460,8 @@
       ]
     },
     {
-      "Route": "JD.MauiBlazorUITestProject.kde7tedmi3.styles.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-kde7tedmi3.gz",
+      "Route": "JD.MauiBlazorUITestProject.odoo2rui5s.styles.css",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-odoo2rui5s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2480,11 +2480,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ=\""
+          "Value": "\"9/V/o0EQNW32IZvkg6g7MnVNvxJNZBivl4wiVjToX9w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:29:30 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2504,21 +2504,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s=\""
+          "Value": "W/\"bH+NCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4=\""
         },
         {
           "Name": "Link",
-          "Value": "<_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+          "Value": "<_content/JD.RCL/JD.RCL.ea4hhzglw4.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kde7tedmi3"
+          "Value": "odoo2rui5s"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s="
+          "Value": "sha256-bH+NCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4="
         },
         {
           "Name": "label",
@@ -2527,7 +2527,7 @@
       ]
     },
     {
-      "Route": "JD.MauiBlazorUITestProject.kde7tedmi3.styles.css",
+      "Route": "JD.MauiBlazorUITestProject.odoo2rui5s.styles.css",
       "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\JD.MauiBlazorUITestProject.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2549,25 +2549,25 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s=\""
+          "Value": "\"bH+NCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:29:30 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:19 GMT"
         },
         {
           "Name": "Link",
-          "Value": "<_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+          "Value": "<_content/JD.RCL/JD.RCL.ea4hhzglw4.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kde7tedmi3"
+          "Value": "odoo2rui5s"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s="
+          "Value": "sha256-bH+NCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4="
         },
         {
           "Name": "label",
@@ -2576,8 +2576,8 @@
       ]
     },
     {
-      "Route": "JD.MauiBlazorUITestProject.kde7tedmi3.styles.css.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-kde7tedmi3.gz",
+      "Route": "JD.MauiBlazorUITestProject.odoo2rui5s.styles.css.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-odoo2rui5s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2594,11 +2594,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ=\""
+          "Value": "\"9/V/o0EQNW32IZvkg6g7MnVNvxJNZBivl4wiVjToX9w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:29:30 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2616,7 +2616,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kde7tedmi3"
+          "Value": "odoo2rui5s"
         },
         {
           "Name": "label",
@@ -2624,13 +2624,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ="
+          "Value": "sha256-9/V/o0EQNW32IZvkg6g7MnVNvxJNZBivl4wiVjToX9w="
         }
       ]
     },
     {
       "Route": "JD.MauiBlazorUITestProject.styles.css",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-kde7tedmi3.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-odoo2rui5s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2649,11 +2649,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ=\""
+          "Value": "\"9/V/o0EQNW32IZvkg6g7MnVNvxJNZBivl4wiVjToX9w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:29:30 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2673,17 +2673,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s=\""
+          "Value": "W/\"bH+NCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4=\""
         },
         {
           "Name": "Link",
-          "Value": "<_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+          "Value": "<_content/JD.RCL/JD.RCL.ea4hhzglw4.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s="
+          "Value": "sha256-bH+NCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4="
         }
       ]
     },
@@ -2710,27 +2710,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s=\""
+          "Value": "\"bH+NCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:29:30 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:19 GMT"
         },
         {
           "Name": "Link",
-          "Value": "<_content/JD.RCL/JD.RCL.un1ckjbyrc.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+          "Value": "<_content/JD.RCL/JD.RCL.ea4hhzglw4.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iMk8bXAYgd95dhrb0OAuE4jJRoDT9mFMtjDDkvqzE+s="
+          "Value": "sha256-bH+NCPeVOgMsfuCJn/qU4nFTbV5vGQ/qWKl6jaroOR4="
         }
       ]
     },
     {
       "Route": "JD.MauiBlazorUITestProject.styles.css.gz",
-      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-kde7tedmi3.gz",
+      "AssetFile": "D:\\repos\\JD.MauiBlazorUITestProject\\obj\\Debug\\net9.0-android\\compressed\\5nudr3whfc-odoo2rui5s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2747,11 +2747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ=\""
+          "Value": "\"9/V/o0EQNW32IZvkg6g7MnVNvxJNZBivl4wiVjToX9w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 01:29:30 GMT"
+          "Value": "Mon, 16 Dec 2024 03:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2769,7 +2769,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CEcm0bldLWyZyn5tJFrYWmbCX/spSFnfIKarwxY4vLQ="
+          "Value": "sha256-9/V/o0EQNW32IZvkg6g7MnVNvxJNZBivl4wiVjToX9w="
         }
       ]
     }

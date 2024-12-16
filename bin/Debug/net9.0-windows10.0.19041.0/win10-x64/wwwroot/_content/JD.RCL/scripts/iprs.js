@@ -261,23 +261,27 @@ class ClickOutOfElement {
             this.element.classList.add('collapsed');
         }
     }
+    makeExpanded() {
+        if (this.element.classList.contains('collapsed')) {
+            this.element.classList.remove('collapsed');
+        }
+        if (!this.element.classList.contains('expanded')) {
+            this.element.classList.add('expanded');
+        }
+    }
     setNewState(newState) {
         this.element.classList.remove('expanded');
         this.element.classList.remove('collapsed');
         this.element.classList.add(newState);
     }
-    toggleState() {
-        if (this.element.classList.contains('expanded')) {
-            this.element.classList.remove('expanded');
-            this.element.classList.add('collapsed');
-        } else {
-            this.element.classList.remove('collapsed');
-            this.element.classList.add('expanded');
-        }
-    }
     updateStateServiceCollapsedState() {
         if (window.registeredClickOutOfElements[this.element.id]) {
             window.registeredClickOutOfElements[this.element.id].dotNetHelper.invokeMethodAsync('UpdateUIState', 'Collapsed').catch(err => console.error(err));
+        }
+    }
+    updateStateServiceExapndedState() {
+        if (window.registeredClickOutOfElements[this.element.id]) {
+            window.registeredClickOutOfElements[this.element.id].dotNetHelper.invokeMethodAsync('UpdateUIState', 'Expanded').catch(err => console.error(err));
         }
     }
 }
@@ -340,7 +344,8 @@ document.addEventListener('click', function (event) {
                     // This is the actual element clicked or its closest coo ancestor
                     // Check if it is already expanded
                     if (!topClickedElement.classList.contains('expanded')) {
-                        clickOutOfElement.toggleState();
+                        clickOutOfElement.makeExpanded();
+                        clickOutOfElement.updateStateServiceExapndedState();
                     } else if (topClickedElement.classList.contains('expanded') && !clickOutOfElement.keepExpandedIfClickedInside) {
                         clickOutOfElement.makeCollapsed();
                         clickOutOfElement.updateStateServiceCollapsedState();
