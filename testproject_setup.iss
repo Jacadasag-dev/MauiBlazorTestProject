@@ -17,7 +17,7 @@ AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
-DefaultDirName=C:\Program Files\IPeople\Roadrunner\Scout
+DefaultDirName=C:\JD\Test\Blazor
 DisableDirPage=yes
 DisableProgramGroupPage=yes
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
@@ -26,7 +26,7 @@ OutputBaseFilename=mysetup
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
-OutputDir=C:\repos\setups\scout
+OutputDir=D:\repos\setups\blazor-test
 UsePreviousAppDir=no
 
 

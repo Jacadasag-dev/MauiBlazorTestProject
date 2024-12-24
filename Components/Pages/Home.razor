@@ -55,21 +55,29 @@
                     Some panel header text
                 </Header>
                 <Body>
-                @if (partialLoading is not null)
-                {
-                    <JDLoading FullScreen="false"
-                        Loading="partialLoading">
-                    </JDLoading>
-                }
-                @if (partialLoading is null)
-                {
-                    <JDButton OnClick="fullScreenLoading">
-                        Test Full Screen Loading...
-                    </JDButton>
-                    <JDButton OnClick="partialScreenLoading">
-                        Test Partial Screen Loading...
-                    </JDButton>
-                }
+                    @if (partialLoading is not null)
+                    {
+                        <JDLoading FullScreen="false"
+                            Loading="partialLoading">
+                        </JDLoading>
+                    }
+                    @if (partialLoading is null)
+                    {
+                        <JDButton OnClick="fullScreenLoading">
+                            Test Full Screen Loading...
+                        </JDButton>
+                        <JDButton OnClick="partialScreenLoading">
+                            Test Partial Screen Loading...
+                        </JDButton>
+                    }
+
+                    <JDGanttChart Tasks="ProjectTasks" 
+                        TaskNameSelector="task => task.Name" 
+                        StartDateSelector="task => task.StartDate" 
+                        EndDateSelector="task => task.EndDate"
+                        StartDate="new DateTime(2024, 12, 1)" 
+                        EndDate="new DateTime(2025, 2, 28)">
+                    </JDGanttChart>
                 </Body>
             </JDPanel>
             <JDPanel
@@ -98,6 +106,12 @@
     private JDLoadingBase? fullLoading;
     private JDLoadingBase? partialLoading;
 
+    private List<GanttTask> ProjectTasks = new List<GanttTask>
+    {
+        new GanttTask { Id = 1, Name = "Requirement Analysis", StartDate = new DateTime(2024, 12, 1), EndDate = new DateTime(2024, 12, 15) },
+        new GanttTask { Id = 2, Name = "Design Phase", StartDate = new DateTime(2024, 12, 16), EndDate = new DateTime(2025, 1, 15) },
+        new GanttTask { Id = 3, Name = "Development", StartDate = new DateTime(2025, 1, 16), EndDate = new DateTime(2025, 2, 14) }
+    };
 
     public class ExampleItem
     {
